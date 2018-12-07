@@ -1,0 +1,7698 @@
+[
+  {
+    "firstCateId": 0,
+    "secondCate": "手机配件",
+    "thirdCateId": 0,
+    "thirdCate": "手机贴膜",
+    "secondCateId": 0,
+    "firstCate": "手机"
+  },
+  {
+    "firstCateId": 0,
+    "secondCate": "手机配件",
+    "thirdCateId": 1,
+    "thirdCate": "手机保护套",
+    "secondCateId": 0,
+    "firstCate": "手机"
+  },
+  {
+    "firstCateId": 0,
+    "secondCate": "手机配件",
+    "thirdCateId": 2,
+    "thirdCate": "蓝牙耳机",
+    "secondCateId": 0,
+    "firstCate": "手机"
+  },
+  {
+    "firstCateId": 0,
+    "secondCate": "手机配件",
+    "thirdCateId": 3,
+    "thirdCate": "手机耳机",
+    "secondCateId": 0,
+    "firstCate": "手机"
+  },
+  {
+    "firstCateId": 0,
+    "secondCate": "手机配件",
+    "thirdCateId": 4,
+    "thirdCate": "数据线",
+    "secondCateId": 0,
+    "firstCate": "手机"
+  },
+  {
+    "firstCateId": 0,
+    "secondCate": "手机配件",
+    "thirdCateId": 5,
+    "thirdCate": "创意配件",
+    "secondCateId": 0,
+    "firstCate": "手机"
+  },
+  {
+    "firstCateId": 0,
+    "secondCate": "手机配件",
+    "thirdCateId": 6,
+    "thirdCate": "充电器",
+    "secondCateId": 0,
+    "firstCate": "手机"
+  },
+  {
+    "firstCateId": 0,
+    "secondCate": "手机配件",
+    "thirdCateId": 7,
+    "thirdCate": "手机支架",
+    "secondCateId": 0,
+    "firstCate": "手机"
+  },
+  {
+    "firstCateId": 0,
+    "secondCate": "手机配件",
+    "thirdCateId": 8,
+    "thirdCate": "手机电池",
+    "secondCateId": 0,
+    "firstCate": "手机"
+  },
+  {
+    "firstCateId": 0,
+    "secondCate": "手机配件",
+    "thirdCateId": 9,
+    "thirdCate": "拍照配件",
+    "secondCateId": 0,
+    "firstCate": "手机"
+  },
+  {
+    "firstCateId": 0,
+    "secondCate": "手机配件",
+    "thirdCateId": 10,
+    "thirdCate": "车载配件",
+    "secondCateId": 0,
+    "firstCate": "手机"
+  },
+  {
+    "firstCateId": 0,
+    "secondCate": "手机配件",
+    "thirdCateId": 11,
+    "thirdCate": "手机饰品",
+    "secondCateId": 0,
+    "firstCate": "手机"
+  },
+  {
+    "firstCateId": 0,
+    "secondCate": "手机配件",
+    "thirdCateId": 12,
+    "thirdCate": "便携/无线音响",
+    "secondCateId": 0,
+    "firstCate": "手机"
+  },
+  {
+    "firstCateId": 0,
+    "secondCate": "手机配件",
+    "thirdCateId": 13,
+    "thirdCate": "手机存储卡",
+    "secondCateId": 0,
+    "firstCate": "手机"
+  },
+  {
+    "firstCateId": 0,
+    "secondCate": "手机配件",
+    "thirdCateId": 14,
+    "thirdCate": "iPhone配件",
+    "secondCateId": 0,
+    "firstCate": "手机"
+  },
+  {
+    "firstCateId": 0,
+    "secondCate": "手机通讯",
+    "thirdCateId": 15,
+    "thirdCate": "对讲机",
+    "secondCateId": 1,
+    "firstCate": "手机"
+  },
+  {
+    "firstCateId": 0,
+    "secondCate": "手机通讯",
+    "thirdCateId": 16,
+    "thirdCate": "手机",
+    "secondCateId": 1,
+    "firstCate": "手机"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "大家电",
+    "thirdCateId": 17,
+    "thirdCate": "家电配件",
+    "secondCateId": 2,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "大家电",
+    "thirdCateId": 18,
+    "thirdCate": "冷柜/冰吧",
+    "secondCateId": 2,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "大家电",
+    "thirdCateId": 19,
+    "thirdCate": "平板电视",
+    "secondCateId": 2,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "大家电",
+    "thirdCateId": 20,
+    "thirdCate": "洗衣机",
+    "secondCateId": 2,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "大家电",
+    "thirdCateId": 21,
+    "thirdCate": "家庭影院",
+    "secondCateId": 2,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "大家电",
+    "thirdCateId": 22,
+    "thirdCate": "冰箱",
+    "secondCateId": 2,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "大家电",
+    "thirdCateId": 23,
+    "thirdCate": "空调",
+    "secondCateId": 2,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "大家电",
+    "thirdCateId": 24,
+    "thirdCate": "酒柜",
+    "secondCateId": 2,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "大家电",
+    "thirdCateId": 25,
+    "thirdCate": "迷你音响",
+    "secondCateId": 2,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "大家电",
+    "thirdCateId": 26,
+    "thirdCate": "DVD/电视盒子",
+    "secondCateId": 2,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "大家电",
+    "thirdCateId": 27,
+    "thirdCate": "功放",
+    "secondCateId": 2,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "大家电",
+    "thirdCateId": 28,
+    "thirdCate": "回音壁/Soundbar",
+    "secondCateId": 2,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "大家电",
+    "thirdCateId": 29,
+    "thirdCate": "Hi/Fi专区",
+    "secondCateId": 2,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "个护健康",
+    "thirdCateId": 30,
+    "thirdCate": "剃须刀",
+    "secondCateId": 3,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "个护健康",
+    "thirdCateId": 31,
+    "thirdCate": "口腔护理",
+    "secondCateId": 3,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "个护健康",
+    "thirdCateId": 32,
+    "thirdCate": "按摩器",
+    "secondCateId": 3,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "个护健康",
+    "thirdCateId": 33,
+    "thirdCate": "美容器",
+    "secondCateId": 3,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "个护健康",
+    "thirdCateId": 34,
+    "thirdCate": "理发器",
+    "secondCateId": 3,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "个护健康",
+    "thirdCateId": 35,
+    "thirdCate": "电吹风",
+    "secondCateId": 3,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "个护健康",
+    "thirdCateId": 36,
+    "thirdCate": "电子秤",
+    "secondCateId": 3,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "个护健康",
+    "thirdCateId": 37,
+    "thirdCate": "卷/直发器",
+    "secondCateId": 3,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "个护健康",
+    "thirdCateId": 38,
+    "thirdCate": "剃/脱毛器",
+    "secondCateId": 3,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "个护健康",
+    "thirdCateId": 39,
+    "thirdCate": "按摩椅",
+    "secondCateId": 3,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "个护健康",
+    "thirdCateId": 40,
+    "thirdCate": "其它健康电器",
+    "secondCateId": 3,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "个护健康",
+    "thirdCateId": 41,
+    "thirdCate": "足浴盆",
+    "secondCateId": 3,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "生活电器",
+    "thirdCateId": 42,
+    "thirdCate": "净水器",
+    "secondCateId": 4,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "生活电器",
+    "thirdCateId": 43,
+    "thirdCate": "生活电器配件",
+    "secondCateId": 4,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "生活电器",
+    "thirdCateId": 44,
+    "thirdCate": "净化器",
+    "secondCateId": 4,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "生活电器",
+    "thirdCateId": 45,
+    "thirdCate": "取暖电器",
+    "secondCateId": 4,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "生活电器",
+    "thirdCateId": 46,
+    "thirdCate": "其它生活电器",
+    "secondCateId": 4,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "生活电器",
+    "thirdCateId": 47,
+    "thirdCate": "电风扇",
+    "secondCateId": 4,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "生活电器",
+    "thirdCateId": 48,
+    "thirdCate": "吸尘器/除螨仪",
+    "secondCateId": 4,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "生活电器",
+    "thirdCateId": 49,
+    "thirdCate": "挂烫机/熨斗",
+    "secondCateId": 4,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "生活电器",
+    "thirdCateId": 50,
+    "thirdCate": "饮水机",
+    "secondCateId": 4,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "生活电器",
+    "thirdCateId": 51,
+    "thirdCate": "加湿器",
+    "secondCateId": 4,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "生活电器",
+    "thirdCateId": 52,
+    "thirdCate": "除湿机",
+    "secondCateId": 4,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "生活电器",
+    "thirdCateId": 53,
+    "thirdCate": "收录/音机",
+    "secondCateId": 4,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "生活电器",
+    "thirdCateId": 54,
+    "thirdCate": "扫地机器人",
+    "secondCateId": 4,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "生活电器",
+    "thirdCateId": 55,
+    "thirdCate": "电话机",
+    "secondCateId": 4,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "生活电器",
+    "thirdCateId": 56,
+    "thirdCate": "冷风扇",
+    "secondCateId": 4,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "生活电器",
+    "thirdCateId": 57,
+    "thirdCate": "干衣机",
+    "secondCateId": 4,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "生活电器",
+    "thirdCateId": 58,
+    "thirdCate": "清洁机",
+    "secondCateId": 4,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "厨卫大电",
+    "thirdCateId": 59,
+    "thirdCate": "油烟机",
+    "secondCateId": 5,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "厨卫大电",
+    "thirdCateId": 60,
+    "thirdCate": "燃气灶",
+    "secondCateId": 5,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "厨卫大电",
+    "thirdCateId": 61,
+    "thirdCate": "消毒柜",
+    "secondCateId": 5,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "厨卫大电",
+    "thirdCateId": 62,
+    "thirdCate": "洗碗机",
+    "secondCateId": 5,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "五金家装",
+    "thirdCateId": 63,
+    "thirdCate": "插座",
+    "secondCateId": 6,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "厨房小电",
+    "thirdCateId": 64,
+    "thirdCate": "其它厨房电器",
+    "secondCateId": 7,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "厨房小电",
+    "thirdCateId": 65,
+    "thirdCate": "电水壶/热水瓶",
+    "secondCateId": 7,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "厨房小电",
+    "thirdCateId": 66,
+    "thirdCate": "料理机",
+    "secondCateId": 7,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "厨房小电",
+    "thirdCateId": 67,
+    "thirdCate": "咖啡机",
+    "secondCateId": 7,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "厨房小电",
+    "thirdCateId": 68,
+    "thirdCate": "多用途锅",
+    "secondCateId": 7,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "厨房小电",
+    "thirdCateId": 69,
+    "thirdCate": "电饭煲",
+    "secondCateId": 7,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "厨房小电",
+    "thirdCateId": 70,
+    "thirdCate": "养生壶/煎药壶",
+    "secondCateId": 7,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "厨房小电",
+    "thirdCateId": 71,
+    "thirdCate": "电磁炉",
+    "secondCateId": 7,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "厨房小电",
+    "thirdCateId": 72,
+    "thirdCate": "榨汁机/原汁机",
+    "secondCateId": 7,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "厨房小电",
+    "thirdCateId": 73,
+    "thirdCate": "电炖锅",
+    "secondCateId": 7,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "厨房小电",
+    "thirdCateId": 74,
+    "thirdCate": "电压力锅",
+    "secondCateId": 7,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "厨房小电",
+    "thirdCateId": 75,
+    "thirdCate": "电烤箱",
+    "secondCateId": 7,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "厨房小电",
+    "thirdCateId": 76,
+    "thirdCate": "面包机",
+    "secondCateId": 7,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "厨房小电",
+    "thirdCateId": 77,
+    "thirdCate": "豆浆机",
+    "secondCateId": 7,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "厨房小电",
+    "thirdCateId": 78,
+    "thirdCate": "酸奶机",
+    "secondCateId": 7,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "厨房小电",
+    "thirdCateId": 79,
+    "thirdCate": "微波炉",
+    "secondCateId": 7,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "厨房小电",
+    "thirdCateId": 80,
+    "thirdCate": "电烧烤炉",
+    "secondCateId": 7,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "厨房小电",
+    "thirdCateId": 81,
+    "thirdCate": "电饼铛",
+    "secondCateId": 7,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "厨房小电",
+    "thirdCateId": 82,
+    "thirdCate": "煮蛋器",
+    "secondCateId": 7,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 1,
+    "secondCate": "厨房小电",
+    "thirdCateId": 83,
+    "thirdCate": "电热饭盒",
+    "secondCateId": 7,
+    "firstCate": "家用电器"
+  },
+  {
+    "firstCateId": 2,
+    "secondCate": "影音娱乐",
+    "thirdCateId": 84,
+    "thirdCate": "耳机/耳麦",
+    "secondCateId": 8,
+    "firstCate": "数码"
+  },
+  {
+    "firstCateId": 2,
+    "secondCate": "影音娱乐",
+    "thirdCateId": 85,
+    "thirdCate": "音箱/音响",
+    "secondCateId": 8,
+    "firstCate": "数码"
+  },
+  {
+    "firstCateId": 2,
+    "secondCate": "影音娱乐",
+    "thirdCateId": 86,
+    "thirdCate": "麦克风",
+    "secondCateId": 8,
+    "firstCate": "数码"
+  },
+  {
+    "firstCateId": 2,
+    "secondCate": "影音娱乐",
+    "thirdCateId": 87,
+    "thirdCate": "专业音频",
+    "secondCateId": 8,
+    "firstCate": "数码"
+  },
+  {
+    "firstCateId": 2,
+    "secondCate": "影音娱乐",
+    "thirdCateId": 88,
+    "thirdCate": "便携/无线音箱",
+    "secondCateId": 8,
+    "firstCate": "数码"
+  },
+  {
+    "firstCateId": 2,
+    "secondCate": "影音娱乐",
+    "thirdCateId": 89,
+    "thirdCate": "MP3/MP4",
+    "secondCateId": 8,
+    "firstCate": "数码"
+  },
+  {
+    "firstCateId": 2,
+    "secondCate": "影音娱乐",
+    "thirdCateId": 90,
+    "thirdCate": "收音机",
+    "secondCateId": 8,
+    "firstCate": "数码"
+  },
+  {
+    "firstCateId": 2,
+    "secondCate": "影音娱乐",
+    "thirdCateId": 91,
+    "thirdCate": "智能设备",
+    "secondCateId": 8,
+    "firstCate": "数码"
+  },
+  {
+    "firstCateId": 2,
+    "secondCate": "影音娱乐",
+    "thirdCateId": 92,
+    "thirdCate": "高清播放器",
+    "secondCateId": 8,
+    "firstCate": "数码"
+  },
+  {
+    "firstCateId": 2,
+    "secondCate": "影音娱乐",
+    "thirdCateId": 93,
+    "thirdCate": "MP3/MP4配件",
+    "secondCateId": 8,
+    "firstCate": "数码"
+  },
+  {
+    "firstCateId": 2,
+    "secondCate": "智能设备",
+    "thirdCateId": 94,
+    "thirdCate": "智能手表",
+    "secondCateId": 9,
+    "firstCate": "数码"
+  },
+  {
+    "firstCateId": 2,
+    "secondCate": "智能设备",
+    "thirdCateId": 95,
+    "thirdCate": "智能手环",
+    "secondCateId": 9,
+    "firstCate": "数码"
+  },
+  {
+    "firstCateId": 2,
+    "secondCate": "智能设备",
+    "thirdCateId": 96,
+    "thirdCate": "智能家居",
+    "secondCateId": 9,
+    "firstCate": "数码"
+  },
+  {
+    "firstCateId": 2,
+    "secondCate": "智能设备",
+    "thirdCateId": 97,
+    "thirdCate": "VR眼镜",
+    "secondCateId": 9,
+    "firstCate": "数码"
+  },
+  {
+    "firstCateId": 2,
+    "secondCate": "智能设备",
+    "thirdCateId": 98,
+    "thirdCate": "无人机",
+    "secondCateId": 9,
+    "firstCate": "数码"
+  },
+  {
+    "firstCateId": 2,
+    "secondCate": "智能设备",
+    "thirdCateId": 99,
+    "thirdCate": "健康监测",
+    "secondCateId": 9,
+    "firstCate": "数码"
+  },
+  {
+    "firstCateId": 2,
+    "secondCate": "智能设备",
+    "thirdCateId": 100,
+    "thirdCate": "体感车",
+    "secondCateId": 9,
+    "firstCate": "数码"
+  },
+  {
+    "firstCateId": 2,
+    "secondCate": "智能设备",
+    "thirdCateId": 101,
+    "thirdCate": "智能机器人",
+    "secondCateId": 9,
+    "firstCate": "数码"
+  },
+  {
+    "firstCateId": 2,
+    "secondCate": "智能设备",
+    "thirdCateId": 102,
+    "thirdCate": "智能配饰",
+    "secondCateId": 9,
+    "firstCate": "数码"
+  },
+  {
+    "firstCateId": 2,
+    "secondCate": "智能设备",
+    "thirdCateId": 103,
+    "thirdCate": "运动跟踪器",
+    "secondCateId": 9,
+    "firstCate": "数码"
+  },
+  {
+    "firstCateId": 2,
+    "secondCate": "数码配件",
+    "thirdCateId": 104,
+    "thirdCate": "移动电源",
+    "secondCateId": 10,
+    "firstCate": "数码"
+  },
+  {
+    "firstCateId": 2,
+    "secondCate": "数码配件",
+    "thirdCateId": 105,
+    "thirdCate": "滤镜",
+    "secondCateId": 10,
+    "firstCate": "数码"
+  },
+  {
+    "firstCateId": 2,
+    "secondCate": "数码配件",
+    "thirdCateId": 106,
+    "thirdCate": "机身附件",
+    "secondCateId": 10,
+    "firstCate": "数码"
+  },
+  {
+    "firstCateId": 2,
+    "secondCate": "数码配件",
+    "thirdCateId": 107,
+    "thirdCate": "三脚架/云台",
+    "secondCateId": 10,
+    "firstCate": "数码"
+  },
+  {
+    "firstCateId": 2,
+    "secondCate": "数码配件",
+    "thirdCateId": 108,
+    "thirdCate": "存储卡",
+    "secondCateId": 10,
+    "firstCate": "数码"
+  },
+  {
+    "firstCateId": 2,
+    "secondCate": "数码配件",
+    "thirdCateId": 109,
+    "thirdCate": "镜头附件",
+    "secondCateId": 10,
+    "firstCate": "数码"
+  },
+  {
+    "firstCateId": 2,
+    "secondCate": "数码配件",
+    "thirdCateId": 110,
+    "thirdCate": "闪光灯/手柄",
+    "secondCateId": 10,
+    "firstCate": "数码"
+  },
+  {
+    "firstCateId": 2,
+    "secondCate": "数码配件",
+    "thirdCateId": 111,
+    "thirdCate": "相机清洁/贴膜",
+    "secondCateId": 10,
+    "firstCate": "数码"
+  },
+  {
+    "firstCateId": 2,
+    "secondCate": "数码配件",
+    "thirdCateId": 112,
+    "thirdCate": "读卡器",
+    "secondCateId": 10,
+    "firstCate": "数码"
+  },
+  {
+    "firstCateId": 2,
+    "secondCate": "数码配件",
+    "thirdCateId": 113,
+    "thirdCate": "数码支架",
+    "secondCateId": 10,
+    "firstCate": "数码"
+  },
+  {
+    "firstCateId": 2,
+    "secondCate": "摄影摄像",
+    "thirdCateId": 114,
+    "thirdCate": "影棚器材",
+    "secondCateId": 11,
+    "firstCate": "数码"
+  },
+  {
+    "firstCateId": 2,
+    "secondCate": "摄影摄像",
+    "thirdCateId": 115,
+    "thirdCate": "单反相机",
+    "secondCateId": 11,
+    "firstCate": "数码"
+  },
+  {
+    "firstCateId": 2,
+    "secondCate": "摄影摄像",
+    "thirdCateId": 116,
+    "thirdCate": "镜头",
+    "secondCateId": 11,
+    "firstCate": "数码"
+  },
+  {
+    "firstCateId": 2,
+    "secondCate": "摄影摄像",
+    "thirdCateId": 117,
+    "thirdCate": "单电/微单相机",
+    "secondCateId": 11,
+    "firstCate": "数码"
+  },
+  {
+    "firstCateId": 2,
+    "secondCate": "摄影摄像",
+    "thirdCateId": 118,
+    "thirdCate": "数码相机",
+    "secondCateId": 11,
+    "firstCate": "数码"
+  },
+  {
+    "firstCateId": 2,
+    "secondCate": "摄影摄像",
+    "thirdCateId": 119,
+    "thirdCate": "摄像机",
+    "secondCateId": 11,
+    "firstCate": "数码"
+  },
+  {
+    "firstCateId": 2,
+    "secondCate": "摄影摄像",
+    "thirdCateId": 120,
+    "thirdCate": "运动相机",
+    "secondCateId": 11,
+    "firstCate": "数码"
+  },
+  {
+    "firstCateId": 2,
+    "secondCate": "摄影摄像",
+    "thirdCateId": 121,
+    "thirdCate": "户外器材",
+    "secondCateId": 11,
+    "firstCate": "数码"
+  },
+  {
+    "firstCateId": 2,
+    "secondCate": "摄影摄像",
+    "thirdCateId": 122,
+    "thirdCate": "拍立得",
+    "secondCateId": 11,
+    "firstCate": "数码"
+  },
+  {
+    "firstCateId": 2,
+    "secondCate": "摄影摄像",
+    "thirdCateId": 123,
+    "thirdCate": "数码相框",
+    "secondCateId": 11,
+    "firstCate": "数码"
+  },
+  {
+    "firstCateId": 2,
+    "secondCate": "电子教育",
+    "thirdCateId": 124,
+    "thirdCate": "录音笔",
+    "secondCateId": 12,
+    "firstCate": "数码"
+  },
+  {
+    "firstCateId": 2,
+    "secondCate": "电子教育",
+    "thirdCateId": 125,
+    "thirdCate": "电纸书",
+    "secondCateId": 12,
+    "firstCate": "数码"
+  },
+  {
+    "firstCateId": 2,
+    "secondCate": "电子教育",
+    "thirdCateId": 126,
+    "thirdCate": "早教益智",
+    "secondCateId": 12,
+    "firstCate": "数码"
+  },
+  {
+    "firstCateId": 2,
+    "secondCate": "电子教育",
+    "thirdCateId": 127,
+    "thirdCate": "学生平板",
+    "secondCateId": 12,
+    "firstCate": "数码"
+  },
+  {
+    "firstCateId": 2,
+    "secondCate": "电子教育",
+    "thirdCateId": 128,
+    "thirdCate": "点读机/笔",
+    "secondCateId": 12,
+    "firstCate": "数码"
+  },
+  {
+    "firstCateId": 2,
+    "secondCate": "电子教育",
+    "thirdCateId": 129,
+    "thirdCate": "复读机",
+    "secondCateId": 12,
+    "firstCate": "数码"
+  },
+  {
+    "firstCateId": 2,
+    "secondCate": "电子教育",
+    "thirdCateId": 130,
+    "thirdCate": "电子词典",
+    "secondCateId": 12,
+    "firstCate": "数码"
+  },
+  {
+    "firstCateId": 3,
+    "secondCate": "家纺",
+    "thirdCateId": 131,
+    "thirdCate": "桌布/罩件",
+    "secondCateId": 13,
+    "firstCate": "家居家装"
+  },
+  {
+    "firstCateId": 3,
+    "secondCate": "家纺",
+    "thirdCateId": 132,
+    "thirdCate": "床垫/床褥",
+    "secondCateId": 13,
+    "firstCate": "家居家装"
+  },
+  {
+    "firstCateId": 3,
+    "secondCate": "家纺",
+    "thirdCateId": 133,
+    "thirdCate": "布艺软饰",
+    "secondCateId": 13,
+    "firstCate": "家居家装"
+  },
+  {
+    "firstCateId": 3,
+    "secondCate": "家纺",
+    "thirdCateId": 134,
+    "thirdCate": "沙发垫套/椅垫",
+    "secondCateId": 13,
+    "firstCate": "家居家装"
+  },
+  {
+    "firstCateId": 3,
+    "secondCate": "家纺",
+    "thirdCateId": 135,
+    "thirdCate": "地毯",
+    "secondCateId": 13,
+    "firstCate": "家居家装"
+  },
+  {
+    "firstCateId": 3,
+    "secondCate": "家纺",
+    "thirdCateId": 136,
+    "thirdCate": "抱枕靠垫",
+    "secondCateId": 13,
+    "firstCate": "家居家装"
+  },
+  {
+    "firstCateId": 3,
+    "secondCate": "家纺",
+    "thirdCateId": 137,
+    "thirdCate": "毯子",
+    "secondCateId": 13,
+    "firstCate": "家居家装"
+  },
+  {
+    "firstCateId": 3,
+    "secondCate": "家纺",
+    "thirdCateId": 138,
+    "thirdCate": "蚊帐",
+    "secondCateId": 13,
+    "firstCate": "家居家装"
+  },
+  {
+    "firstCateId": 3,
+    "secondCate": "家纺",
+    "thirdCateId": 139,
+    "thirdCate": "毛巾浴巾",
+    "secondCateId": 13,
+    "firstCate": "家居家装"
+  },
+  {
+    "firstCateId": 3,
+    "secondCate": "家纺",
+    "thirdCateId": 140,
+    "thirdCate": "枕芯",
+    "secondCateId": 13,
+    "firstCate": "家居家装"
+  },
+  {
+    "firstCateId": 3,
+    "secondCate": "家纺",
+    "thirdCateId": 141,
+    "thirdCate": "凉席",
+    "secondCateId": 13,
+    "firstCate": "家居家装"
+  },
+  {
+    "firstCateId": 3,
+    "secondCate": "家纺",
+    "thirdCateId": 142,
+    "thirdCate": "床品套件",
+    "secondCateId": 13,
+    "firstCate": "家居家装"
+  },
+  {
+    "firstCateId": 3,
+    "secondCate": "家纺",
+    "thirdCateId": 143,
+    "thirdCate": "被子",
+    "secondCateId": 13,
+    "firstCate": "家居家装"
+  },
+  {
+    "firstCateId": 3,
+    "secondCate": "家纺",
+    "thirdCateId": 144,
+    "thirdCate": "窗帘/窗纱",
+    "secondCateId": 13,
+    "firstCate": "家居家装"
+  },
+  {
+    "firstCateId": 3,
+    "secondCate": "家纺",
+    "thirdCateId": 145,
+    "thirdCate": "床单/床笠",
+    "secondCateId": 13,
+    "firstCate": "家居家装"
+  },
+  {
+    "firstCateId": 3,
+    "secondCate": "家纺",
+    "thirdCateId": 146,
+    "thirdCate": "电热毯",
+    "secondCateId": 13,
+    "firstCate": "家居家装"
+  },
+  {
+    "firstCateId": 3,
+    "secondCate": "家装软饰",
+    "thirdCateId": 147,
+    "thirdCate": "钟饰",
+    "secondCateId": 14,
+    "firstCate": "家居家装"
+  },
+  {
+    "firstCateId": 3,
+    "secondCate": "家装软饰",
+    "thirdCateId": 148,
+    "thirdCate": "装饰字画",
+    "secondCateId": 14,
+    "firstCate": "家居家装"
+  },
+  {
+    "firstCateId": 3,
+    "secondCate": "家装软饰",
+    "thirdCateId": 149,
+    "thirdCate": "墙贴/装饰贴",
+    "secondCateId": 14,
+    "firstCate": "家居家装"
+  },
+  {
+    "firstCateId": 3,
+    "secondCate": "家装软饰",
+    "thirdCateId": 150,
+    "thirdCate": "创意家居",
+    "secondCateId": 14,
+    "firstCate": "家居家装"
+  },
+  {
+    "firstCateId": 3,
+    "secondCate": "家装软饰",
+    "thirdCateId": 151,
+    "thirdCate": "手工/十字绣",
+    "secondCateId": 14,
+    "firstCate": "家居家装"
+  },
+  {
+    "firstCateId": 3,
+    "secondCate": "家装软饰",
+    "thirdCateId": 152,
+    "thirdCate": "装饰摆件",
+    "secondCateId": 14,
+    "firstCate": "家居家装"
+  },
+  {
+    "firstCateId": 3,
+    "secondCate": "家装软饰",
+    "thirdCateId": 153,
+    "thirdCate": "相框/照片墙",
+    "secondCateId": 14,
+    "firstCate": "家居家装"
+  },
+  {
+    "firstCateId": 3,
+    "secondCate": "家装软饰",
+    "thirdCateId": 154,
+    "thirdCate": "花瓶花艺",
+    "secondCateId": 14,
+    "firstCate": "家居家装"
+  },
+  {
+    "firstCateId": 3,
+    "secondCate": "家装软饰",
+    "thirdCateId": 155,
+    "thirdCate": "帘艺隔断",
+    "secondCateId": 14,
+    "firstCate": "家居家装"
+  },
+  {
+    "firstCateId": 3,
+    "secondCate": "家装软饰",
+    "thirdCateId": 156,
+    "thirdCate": "节庆饰品",
+    "secondCateId": 14,
+    "firstCate": "家居家装"
+  },
+  {
+    "firstCateId": 3,
+    "secondCate": "家装软饰",
+    "thirdCateId": 157,
+    "thirdCate": "香薰蜡烛",
+    "secondCateId": 14,
+    "firstCate": "家居家装"
+  },
+  {
+    "firstCateId": 3,
+    "secondCate": "生活日用",
+    "thirdCateId": 158,
+    "thirdCate": "雨伞雨具",
+    "secondCateId": 15,
+    "firstCate": "家居家装"
+  },
+  {
+    "firstCateId": 3,
+    "secondCate": "生活日用",
+    "thirdCateId": 159,
+    "thirdCate": "保暖防护",
+    "secondCateId": 15,
+    "firstCate": "家居家装"
+  },
+  {
+    "firstCateId": 3,
+    "secondCate": "生活日用",
+    "thirdCateId": 160,
+    "thirdCate": "净化除味",
+    "secondCateId": 15,
+    "firstCate": "家居家装"
+  },
+  {
+    "firstCateId": 3,
+    "secondCate": "生活日用",
+    "thirdCateId": 161,
+    "thirdCate": "浴室用品",
+    "secondCateId": 15,
+    "firstCate": "家居家装"
+  },
+  {
+    "firstCateId": 3,
+    "secondCate": "生活日用",
+    "thirdCateId": 162,
+    "thirdCate": "缝纫/针织用品",
+    "secondCateId": 15,
+    "firstCate": "家居家装"
+  },
+  {
+    "firstCateId": 3,
+    "secondCate": "生活日用",
+    "thirdCateId": 163,
+    "thirdCate": "洗晒/熨烫",
+    "secondCateId": 15,
+    "firstCate": "家居家装"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "电脑整机",
+    "thirdCateId": 164,
+    "thirdCate": "笔记本",
+    "secondCateId": 16,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "电脑整机",
+    "thirdCateId": 165,
+    "thirdCate": "台式机",
+    "secondCateId": 16,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "电脑整机",
+    "thirdCateId": 166,
+    "thirdCate": "笔记本配件",
+    "secondCateId": 16,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "电脑整机",
+    "thirdCateId": 167,
+    "thirdCate": "平板电脑配件",
+    "secondCateId": 16,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "电脑整机",
+    "thirdCateId": 168,
+    "thirdCate": "服务器/工作站",
+    "secondCateId": 16,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "电脑整机",
+    "thirdCateId": 169,
+    "thirdCate": "一体机",
+    "secondCateId": 16,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "电脑整机",
+    "thirdCateId": 170,
+    "thirdCate": "游戏本",
+    "secondCateId": 16,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "电脑整机",
+    "thirdCateId": 171,
+    "thirdCate": "平板电脑",
+    "secondCateId": 16,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "文具/耗材",
+    "thirdCateId": 172,
+    "thirdCate": "办公文具",
+    "secondCateId": 17,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "文具/耗材",
+    "thirdCateId": 173,
+    "thirdCate": "笔类",
+    "secondCateId": 17,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "文具/耗材",
+    "thirdCateId": 174,
+    "thirdCate": "学生文具",
+    "secondCateId": 17,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "文具/耗材",
+    "thirdCateId": 175,
+    "thirdCate": "硒鼓/墨粉",
+    "secondCateId": 17,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "文具/耗材",
+    "thirdCateId": 176,
+    "thirdCate": "纸类",
+    "secondCateId": 17,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "文具/耗材",
+    "thirdCateId": 177,
+    "thirdCate": "本册/便签",
+    "secondCateId": 17,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "文具/耗材",
+    "thirdCateId": 178,
+    "thirdCate": "财会用品",
+    "secondCateId": 17,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "文具/耗材",
+    "thirdCateId": 179,
+    "thirdCate": "画具画材",
+    "secondCateId": 17,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "文具/耗材",
+    "thirdCateId": 180,
+    "thirdCate": "墨盒",
+    "secondCateId": 17,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "文具/耗材",
+    "thirdCateId": 181,
+    "thirdCate": "色带",
+    "secondCateId": 17,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "文具/耗材",
+    "thirdCateId": 182,
+    "thirdCate": "文件管理",
+    "secondCateId": 17,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "文具/耗材",
+    "thirdCateId": 183,
+    "thirdCate": "计算器",
+    "secondCateId": 17,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "文具/耗材",
+    "thirdCateId": 184,
+    "thirdCate": "刻录碟片/附件",
+    "secondCateId": 17,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "网络产品",
+    "thirdCateId": 185,
+    "thirdCate": "路由器",
+    "secondCateId": 18,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "网络产品",
+    "thirdCateId": 186,
+    "thirdCate": "交换机",
+    "secondCateId": 18,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "网络产品",
+    "thirdCateId": 187,
+    "thirdCate": "网络配件",
+    "secondCateId": 18,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "网络产品",
+    "thirdCateId": 188,
+    "thirdCate": "4G/3G上网",
+    "secondCateId": 18,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "网络产品",
+    "thirdCateId": 189,
+    "thirdCate": "网卡",
+    "secondCateId": 18,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "网络产品",
+    "thirdCateId": 190,
+    "thirdCate": "网络盒子",
+    "secondCateId": 18,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "网络产品",
+    "thirdCateId": 191,
+    "thirdCate": "网络存储",
+    "secondCateId": 18,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "办公设备",
+    "thirdCateId": 192,
+    "thirdCate": "打印机",
+    "secondCateId": 19,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "办公设备",
+    "thirdCateId": 193,
+    "thirdCate": "投影机",
+    "secondCateId": 19,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "办公设备",
+    "thirdCateId": 194,
+    "thirdCate": "安防监控",
+    "secondCateId": 19,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "办公设备",
+    "thirdCateId": 195,
+    "thirdCate": "投影配件",
+    "secondCateId": 19,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "办公设备",
+    "thirdCateId": 196,
+    "thirdCate": "会议音频视频",
+    "secondCateId": 19,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "办公设备",
+    "thirdCateId": 197,
+    "thirdCate": "复合机",
+    "secondCateId": 19,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "办公设备",
+    "thirdCateId": 198,
+    "thirdCate": "扫描设备",
+    "secondCateId": 19,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "办公设备",
+    "thirdCateId": 199,
+    "thirdCate": "装订/封装机",
+    "secondCateId": 19,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "办公设备",
+    "thirdCateId": 200,
+    "thirdCate": "多功能一体机",
+    "secondCateId": 19,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "办公设备",
+    "thirdCateId": 201,
+    "thirdCate": "保险柜",
+    "secondCateId": 19,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "办公设备",
+    "thirdCateId": 202,
+    "thirdCate": "白板",
+    "secondCateId": 19,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "办公设备",
+    "thirdCateId": 203,
+    "thirdCate": "收银机",
+    "secondCateId": 19,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "办公设备",
+    "thirdCateId": 204,
+    "thirdCate": "办公家具",
+    "secondCateId": 19,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "办公设备",
+    "thirdCateId": 205,
+    "thirdCate": "考勤机",
+    "secondCateId": 19,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "办公设备",
+    "thirdCateId": 206,
+    "thirdCate": "验钞/点钞机",
+    "secondCateId": 19,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "办公设备",
+    "thirdCateId": 207,
+    "thirdCate": "碎纸机",
+    "secondCateId": 19,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "办公设备",
+    "thirdCateId": 208,
+    "thirdCate": "传真设备",
+    "secondCateId": 19,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "外设产品",
+    "thirdCateId": 209,
+    "thirdCate": "线缆",
+    "secondCateId": 20,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "外设产品",
+    "thirdCateId": 210,
+    "thirdCate": "U盘",
+    "secondCateId": 20,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "外设产品",
+    "thirdCateId": 211,
+    "thirdCate": "键盘",
+    "secondCateId": 20,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "外设产品",
+    "thirdCateId": 212,
+    "thirdCate": "鼠标",
+    "secondCateId": 20,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "外设产品",
+    "thirdCateId": 213,
+    "thirdCate": "移动硬盘",
+    "secondCateId": 20,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "外设产品",
+    "thirdCateId": 214,
+    "thirdCate": "UPS电源",
+    "secondCateId": 20,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "外设产品",
+    "thirdCateId": 215,
+    "thirdCate": "鼠标垫",
+    "secondCateId": 20,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "外设产品",
+    "thirdCateId": 216,
+    "thirdCate": "电脑工具",
+    "secondCateId": 20,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "外设产品",
+    "thirdCateId": 217,
+    "thirdCate": "硬盘盒",
+    "secondCateId": 20,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "外设产品",
+    "thirdCateId": 218,
+    "thirdCate": "摄像头",
+    "secondCateId": 20,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "外设产品",
+    "thirdCateId": 219,
+    "thirdCate": "游戏设备",
+    "secondCateId": 20,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "外设产品",
+    "thirdCateId": 220,
+    "thirdCate": "网络仪表仪器",
+    "secondCateId": 20,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "外设产品",
+    "thirdCateId": 221,
+    "thirdCate": "手写板",
+    "secondCateId": 20,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "外设产品",
+    "thirdCateId": 222,
+    "thirdCate": "电玩",
+    "secondCateId": 20,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "外设产品",
+    "thirdCateId": 223,
+    "thirdCate": "电脑清洁",
+    "secondCateId": 20,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "电脑配件",
+    "thirdCateId": 224,
+    "thirdCate": "装机配件",
+    "secondCateId": 21,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "电脑配件",
+    "thirdCateId": 225,
+    "thirdCate": "显示器",
+    "secondCateId": 21,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "电脑配件",
+    "thirdCateId": 226,
+    "thirdCate": "内存",
+    "secondCateId": 21,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "电脑配件",
+    "thirdCateId": 227,
+    "thirdCate": "SSD固态硬盘",
+    "secondCateId": 21,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "电脑配件",
+    "thirdCateId": 228,
+    "thirdCate": "散热器",
+    "secondCateId": 21,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "电脑配件",
+    "thirdCateId": 229,
+    "thirdCate": "机箱",
+    "secondCateId": 21,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "电脑配件",
+    "thirdCateId": 230,
+    "thirdCate": "显卡",
+    "secondCateId": 21,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "电脑配件",
+    "thirdCateId": 231,
+    "thirdCate": "主板",
+    "secondCateId": 21,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "电脑配件",
+    "thirdCateId": 232,
+    "thirdCate": "CPU",
+    "secondCateId": 21,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "电脑配件",
+    "thirdCateId": 233,
+    "thirdCate": "电源",
+    "secondCateId": 21,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "电脑配件",
+    "thirdCateId": 234,
+    "thirdCate": "硬盘",
+    "secondCateId": 21,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "电脑配件",
+    "thirdCateId": 235,
+    "thirdCate": "声卡/扩展卡",
+    "secondCateId": 21,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "电脑配件",
+    "thirdCateId": 236,
+    "thirdCate": "刻录机/光驱",
+    "secondCateId": 21,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "游戏设备",
+    "thirdCateId": 237,
+    "thirdCate": "游戏机",
+    "secondCateId": 22,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "游戏设备",
+    "thirdCateId": 238,
+    "thirdCate": "游戏软件",
+    "secondCateId": 22,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "游戏设备",
+    "thirdCateId": 239,
+    "thirdCate": "游戏周边",
+    "secondCateId": 22,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "游戏设备",
+    "thirdCateId": 240,
+    "thirdCate": "手柄/方向盘",
+    "secondCateId": 22,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 4,
+    "secondCate": "游戏设备",
+    "thirdCateId": 241,
+    "thirdCate": "游戏耳机",
+    "secondCateId": 22,
+    "firstCate": "电脑办公"
+  },
+  {
+    "firstCateId": 5,
+    "secondCate": "水具酒具",
+    "thirdCateId": 242,
+    "thirdCate": "陶瓷/马克杯",
+    "secondCateId": 23,
+    "firstCate": "厨具"
+  },
+  {
+    "firstCateId": 5,
+    "secondCate": "水具酒具",
+    "thirdCateId": 243,
+    "thirdCate": "酒杯/酒具",
+    "secondCateId": 23,
+    "firstCate": "厨具"
+  },
+  {
+    "firstCateId": 5,
+    "secondCate": "水具酒具",
+    "thirdCateId": 244,
+    "thirdCate": "玻璃杯",
+    "secondCateId": 23,
+    "firstCate": "厨具"
+  },
+  {
+    "firstCateId": 5,
+    "secondCate": "水具酒具",
+    "thirdCateId": 245,
+    "thirdCate": "保温杯",
+    "secondCateId": 23,
+    "firstCate": "厨具"
+  },
+  {
+    "firstCateId": 5,
+    "secondCate": "水具酒具",
+    "thirdCateId": 246,
+    "thirdCate": "保温壶",
+    "secondCateId": 23,
+    "firstCate": "厨具"
+  },
+  {
+    "firstCateId": 5,
+    "secondCate": "水具酒具",
+    "thirdCateId": 247,
+    "thirdCate": "塑料杯",
+    "secondCateId": 23,
+    "firstCate": "厨具"
+  },
+  {
+    "firstCateId": 5,
+    "secondCate": "水具酒具",
+    "thirdCateId": 248,
+    "thirdCate": "杯具套装",
+    "secondCateId": 23,
+    "firstCate": "厨具"
+  },
+  {
+    "firstCateId": 5,
+    "secondCate": "水具酒具",
+    "thirdCateId": 249,
+    "thirdCate": "运动水壶",
+    "secondCateId": 23,
+    "firstCate": "厨具"
+  },
+  {
+    "firstCateId": 5,
+    "secondCate": "餐具",
+    "thirdCateId": 250,
+    "thirdCate": "碗/碟/盘",
+    "secondCateId": 24,
+    "firstCate": "厨具"
+  },
+  {
+    "firstCateId": 5,
+    "secondCate": "餐具",
+    "thirdCateId": 251,
+    "thirdCate": "餐具套装",
+    "secondCateId": 24,
+    "firstCate": "厨具"
+  },
+  {
+    "firstCateId": 5,
+    "secondCate": "餐具",
+    "thirdCateId": 252,
+    "thirdCate": "筷勺/刀叉",
+    "secondCateId": 24,
+    "firstCate": "厨具"
+  },
+  {
+    "firstCateId": 5,
+    "secondCate": "餐具",
+    "thirdCateId": 253,
+    "thirdCate": "果盘/果篮",
+    "secondCateId": 24,
+    "firstCate": "厨具"
+  },
+  {
+    "firstCateId": 5,
+    "secondCate": "餐具",
+    "thirdCateId": 254,
+    "thirdCate": "一次性用品",
+    "secondCateId": 24,
+    "firstCate": "厨具"
+  },
+  {
+    "firstCateId": 5,
+    "secondCate": "厨房配件",
+    "thirdCateId": 255,
+    "thirdCate": "烘焙/烧烤",
+    "secondCateId": 25,
+    "firstCate": "厨具"
+  },
+  {
+    "firstCateId": 5,
+    "secondCate": "厨房配件",
+    "thirdCateId": 256,
+    "thirdCate": "厨房DIY/小工具",
+    "secondCateId": 25,
+    "firstCate": "厨具"
+  },
+  {
+    "firstCateId": 5,
+    "secondCate": "厨房配件",
+    "thirdCateId": 257,
+    "thirdCate": "储物/置物架",
+    "secondCateId": 25,
+    "firstCate": "厨具"
+  },
+  {
+    "firstCateId": 5,
+    "secondCate": "厨房配件",
+    "thirdCateId": 258,
+    "thirdCate": "饭盒/提锅",
+    "secondCateId": 25,
+    "firstCate": "厨具"
+  },
+  {
+    "firstCateId": 5,
+    "secondCate": "厨房配件",
+    "thirdCateId": 259,
+    "thirdCate": "保鲜盒",
+    "secondCateId": 25,
+    "firstCate": "厨具"
+  },
+  {
+    "firstCateId": 5,
+    "secondCate": "茶具/咖啡具",
+    "thirdCateId": 260,
+    "thirdCate": "茶具配件",
+    "secondCateId": 26,
+    "firstCate": "厨具"
+  },
+  {
+    "firstCateId": 5,
+    "secondCate": "茶具/咖啡具",
+    "thirdCateId": 261,
+    "thirdCate": "整套茶具",
+    "secondCateId": 26,
+    "firstCate": "厨具"
+  },
+  {
+    "firstCateId": 5,
+    "secondCate": "茶具/咖啡具",
+    "thirdCateId": 262,
+    "thirdCate": "茶壶",
+    "secondCateId": 26,
+    "firstCate": "厨具"
+  },
+  {
+    "firstCateId": 5,
+    "secondCate": "茶具/咖啡具",
+    "thirdCateId": 263,
+    "thirdCate": "茶杯",
+    "secondCateId": 26,
+    "firstCate": "厨具"
+  },
+  {
+    "firstCateId": 5,
+    "secondCate": "茶具/咖啡具",
+    "thirdCateId": 264,
+    "thirdCate": "咖啡具",
+    "secondCateId": 26,
+    "firstCate": "厨具"
+  },
+  {
+    "firstCateId": 5,
+    "secondCate": "茶具/咖啡具",
+    "thirdCateId": 265,
+    "thirdCate": "茶宠摆件",
+    "secondCateId": 26,
+    "firstCate": "厨具"
+  },
+  {
+    "firstCateId": 5,
+    "secondCate": "茶具/咖啡具",
+    "thirdCateId": 266,
+    "thirdCate": "茶盘茶托",
+    "secondCateId": 26,
+    "firstCate": "厨具"
+  },
+  {
+    "firstCateId": 5,
+    "secondCate": "茶具/咖啡具",
+    "thirdCateId": 267,
+    "thirdCate": "茶叶罐",
+    "secondCateId": 26,
+    "firstCate": "厨具"
+  },
+  {
+    "firstCateId": 5,
+    "secondCate": "烹饪锅具",
+    "thirdCateId": 268,
+    "thirdCate": "炒锅",
+    "secondCateId": 27,
+    "firstCate": "厨具"
+  },
+  {
+    "firstCateId": 5,
+    "secondCate": "烹饪锅具",
+    "thirdCateId": 269,
+    "thirdCate": "锅具套装",
+    "secondCateId": 27,
+    "firstCate": "厨具"
+  },
+  {
+    "firstCateId": 5,
+    "secondCate": "烹饪锅具",
+    "thirdCateId": 270,
+    "thirdCate": "汤锅",
+    "secondCateId": 27,
+    "firstCate": "厨具"
+  },
+  {
+    "firstCateId": 5,
+    "secondCate": "烹饪锅具",
+    "thirdCateId": 271,
+    "thirdCate": "煎锅",
+    "secondCateId": 27,
+    "firstCate": "厨具"
+  },
+  {
+    "firstCateId": 5,
+    "secondCate": "烹饪锅具",
+    "thirdCateId": 272,
+    "thirdCate": "煲类",
+    "secondCateId": 27,
+    "firstCate": "厨具"
+  },
+  {
+    "firstCateId": 5,
+    "secondCate": "烹饪锅具",
+    "thirdCateId": 273,
+    "thirdCate": "蒸锅",
+    "secondCateId": 27,
+    "firstCate": "厨具"
+  },
+  {
+    "firstCateId": 5,
+    "secondCate": "烹饪锅具",
+    "thirdCateId": 274,
+    "thirdCate": "水壶",
+    "secondCateId": 27,
+    "firstCate": "厨具"
+  },
+  {
+    "firstCateId": 5,
+    "secondCate": "烹饪锅具",
+    "thirdCateId": 275,
+    "thirdCate": "火锅",
+    "secondCateId": 27,
+    "firstCate": "厨具"
+  },
+  {
+    "firstCateId": 5,
+    "secondCate": "烹饪锅具",
+    "thirdCateId": 276,
+    "thirdCate": "压力锅",
+    "secondCateId": 27,
+    "firstCate": "厨具"
+  },
+  {
+    "firstCateId": 5,
+    "secondCate": "烹饪锅具",
+    "thirdCateId": 277,
+    "thirdCate": "奶锅",
+    "secondCateId": 27,
+    "firstCate": "厨具"
+  },
+  {
+    "firstCateId": 5,
+    "secondCate": "刀剪菜板",
+    "thirdCateId": 278,
+    "thirdCate": "菜刀",
+    "secondCateId": 28,
+    "firstCate": "厨具"
+  },
+  {
+    "firstCateId": 5,
+    "secondCate": "刀剪菜板",
+    "thirdCateId": 279,
+    "thirdCate": "砧板",
+    "secondCateId": 28,
+    "firstCate": "厨具"
+  },
+  {
+    "firstCateId": 5,
+    "secondCate": "刀剪菜板",
+    "thirdCateId": 280,
+    "thirdCate": "刀具套装",
+    "secondCateId": 28,
+    "firstCate": "厨具"
+  },
+  {
+    "firstCateId": 5,
+    "secondCate": "刀剪菜板",
+    "thirdCateId": 281,
+    "thirdCate": "瓜果刀/刨",
+    "secondCateId": 28,
+    "firstCate": "厨具"
+  },
+  {
+    "firstCateId": 5,
+    "secondCate": "刀剪菜板",
+    "thirdCateId": 282,
+    "thirdCate": "剪刀",
+    "secondCateId": 28,
+    "firstCate": "厨具"
+  },
+  {
+    "firstCateId": 5,
+    "secondCate": "刀剪菜板",
+    "thirdCateId": 283,
+    "thirdCate": "多功能刀",
+    "secondCateId": 28,
+    "firstCate": "厨具"
+  },
+  {
+    "firstCateId": 5,
+    "secondCate": "酒店用品",
+    "thirdCateId": 284,
+    "thirdCate": "酒店餐具",
+    "secondCateId": 29,
+    "firstCate": "厨具"
+  },
+  {
+    "firstCateId": 5,
+    "secondCate": "酒店用品",
+    "thirdCateId": 285,
+    "thirdCate": "酒店水具",
+    "secondCateId": 29,
+    "firstCate": "厨具"
+  },
+  {
+    "firstCateId": 5,
+    "secondCate": "酒店用品",
+    "thirdCateId": 286,
+    "thirdCate": "自助餐炉",
+    "secondCateId": 29,
+    "firstCate": "厨具"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "洗发护发",
+    "thirdCateId": 287,
+    "thirdCate": "假发",
+    "secondCateId": 30,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "洗发护发",
+    "thirdCateId": 288,
+    "thirdCate": "洗发",
+    "secondCateId": 30,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "洗发护发",
+    "thirdCateId": 289,
+    "thirdCate": "护发",
+    "secondCateId": 30,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "洗发护发",
+    "thirdCateId": 290,
+    "thirdCate": "染发",
+    "secondCateId": 30,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "洗发护发",
+    "thirdCateId": 291,
+    "thirdCate": "造型",
+    "secondCateId": 30,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "洗发护发",
+    "thirdCateId": 292,
+    "thirdCate": "美发工具",
+    "secondCateId": 30,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "香水彩妆",
+    "thirdCateId": 293,
+    "thirdCate": "美甲",
+    "secondCateId": 31,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "香水彩妆",
+    "thirdCateId": 294,
+    "thirdCate": "美妆工具",
+    "secondCateId": 31,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "香水彩妆",
+    "thirdCateId": 295,
+    "thirdCate": "唇部",
+    "secondCateId": 31,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "香水彩妆",
+    "thirdCateId": 296,
+    "thirdCate": "香水",
+    "secondCateId": 31,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "香水彩妆",
+    "thirdCateId": 297,
+    "thirdCate": "底妆",
+    "secondCateId": 31,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "香水彩妆",
+    "thirdCateId": 298,
+    "thirdCate": "眼影",
+    "secondCateId": 31,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "香水彩妆",
+    "thirdCateId": 299,
+    "thirdCate": "眉笔",
+    "secondCateId": 31,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "香水彩妆",
+    "thirdCateId": 300,
+    "thirdCate": "腮红",
+    "secondCateId": 31,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "香水彩妆",
+    "thirdCateId": 301,
+    "thirdCate": "眼线",
+    "secondCateId": 31,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "香水彩妆",
+    "thirdCateId": 302,
+    "thirdCate": "睫毛膏",
+    "secondCateId": 31,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "清洁用品",
+    "thirdCateId": 303,
+    "thirdCate": "清洁工具",
+    "secondCateId": 32,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "清洁用品",
+    "thirdCateId": 304,
+    "thirdCate": "家庭清洁",
+    "secondCateId": 32,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "清洁用品",
+    "thirdCateId": 305,
+    "thirdCate": "一次性用品",
+    "secondCateId": 32,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "清洁用品",
+    "thirdCateId": 306,
+    "thirdCate": "驱虫用品",
+    "secondCateId": 32,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "清洁用品",
+    "thirdCateId": 307,
+    "thirdCate": "皮具护理",
+    "secondCateId": 32,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "清洁用品",
+    "thirdCateId": 308,
+    "thirdCate": "纸品湿巾",
+    "secondCateId": 32,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "清洁用品",
+    "thirdCateId": 309,
+    "thirdCate": "衣物清洁",
+    "secondCateId": 32,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "面部护肤",
+    "thirdCateId": 310,
+    "thirdCate": "乳液面霜",
+    "secondCateId": 33,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "面部护肤",
+    "thirdCateId": 311,
+    "thirdCate": "面膜",
+    "secondCateId": 33,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "面部护肤",
+    "thirdCateId": 312,
+    "thirdCate": "洁面",
+    "secondCateId": 33,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "面部护肤",
+    "thirdCateId": 313,
+    "thirdCate": "爽肤水",
+    "secondCateId": 33,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "面部护肤",
+    "thirdCateId": 314,
+    "thirdCate": "精华",
+    "secondCateId": 33,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "面部护肤",
+    "thirdCateId": 315,
+    "thirdCate": "防晒",
+    "secondCateId": 33,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "面部护肤",
+    "thirdCateId": 316,
+    "thirdCate": "眼霜",
+    "secondCateId": 33,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "面部护肤",
+    "thirdCateId": 317,
+    "thirdCate": "卸妆",
+    "secondCateId": 33,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "面部护肤",
+    "thirdCateId": 318,
+    "thirdCate": "剃须",
+    "secondCateId": 33,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "面部护肤",
+    "thirdCateId": 319,
+    "thirdCate": "眼部护理",
+    "secondCateId": 33,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "面部护肤",
+    "thirdCateId": 320,
+    "thirdCate": "精华露",
+    "secondCateId": 33,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "面部护肤",
+    "thirdCateId": 321,
+    "thirdCate": "防晒隔离",
+    "secondCateId": 33,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "面部护肤",
+    "thirdCateId": 322,
+    "thirdCate": "T区护理",
+    "secondCateId": 33,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "身体护理",
+    "thirdCateId": 323,
+    "thirdCate": "润肤",
+    "secondCateId": 34,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "身体护理",
+    "thirdCateId": 324,
+    "thirdCate": "沐浴",
+    "secondCateId": 34,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "身体护理",
+    "thirdCateId": 325,
+    "thirdCate": "手足",
+    "secondCateId": 34,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "身体护理",
+    "thirdCateId": 326,
+    "thirdCate": "纤体塑形",
+    "secondCateId": 34,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "身体护理",
+    "thirdCateId": 327,
+    "thirdCate": "精油",
+    "secondCateId": 34,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "身体护理",
+    "thirdCateId": 328,
+    "thirdCate": "美胸",
+    "secondCateId": 34,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "身体护理",
+    "thirdCateId": 329,
+    "thirdCate": "颈部",
+    "secondCateId": 34,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "身体护理",
+    "thirdCateId": 330,
+    "thirdCate": "香薰精油",
+    "secondCateId": 34,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "身体护理",
+    "thirdCateId": 331,
+    "thirdCate": "磨砂膏",
+    "secondCateId": 34,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "身体护理",
+    "thirdCateId": 332,
+    "thirdCate": "香皂",
+    "secondCateId": 34,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "身体护理",
+    "thirdCateId": 333,
+    "thirdCate": "磨砂/浴盐",
+    "secondCateId": 34,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "口腔护理",
+    "thirdCateId": 334,
+    "thirdCate": "牙膏/牙粉",
+    "secondCateId": 35,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "口腔护理",
+    "thirdCateId": 335,
+    "thirdCate": "牙刷/牙线",
+    "secondCateId": 35,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "口腔护理",
+    "thirdCateId": 336,
+    "thirdCate": "漱口水",
+    "secondCateId": 35,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "女性护理",
+    "thirdCateId": 337,
+    "thirdCate": "卫生巾",
+    "secondCateId": 36,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "女性护理",
+    "thirdCateId": 338,
+    "thirdCate": "私密护理",
+    "secondCateId": 36,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "女性护理",
+    "thirdCateId": 339,
+    "thirdCate": "脱毛膏",
+    "secondCateId": 36,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 6,
+    "secondCate": "女性护理",
+    "thirdCateId": 340,
+    "thirdCate": "卫生护垫",
+    "secondCateId": 36,
+    "firstCate": "个护化妆"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "女装",
+    "thirdCateId": 341,
+    "thirdCate": "打底衫",
+    "secondCateId": 37,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "女装",
+    "thirdCateId": 342,
+    "thirdCate": "吊带/背心",
+    "secondCateId": 37,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "女装",
+    "thirdCateId": 343,
+    "thirdCate": "短外套",
+    "secondCateId": 37,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "女装",
+    "thirdCateId": 344,
+    "thirdCate": "毛呢大衣",
+    "secondCateId": 37,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "女装",
+    "thirdCateId": 345,
+    "thirdCate": "大码女装",
+    "secondCateId": 37,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "女装",
+    "thirdCateId": 346,
+    "thirdCate": "设计师/潮牌",
+    "secondCateId": 37,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "女装",
+    "thirdCateId": 347,
+    "thirdCate": "针织衫",
+    "secondCateId": 37,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "女装",
+    "thirdCateId": 348,
+    "thirdCate": "打底裤",
+    "secondCateId": 37,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "女装",
+    "thirdCateId": 349,
+    "thirdCate": "礼服",
+    "secondCateId": 37,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "女装",
+    "thirdCateId": 350,
+    "thirdCate": "牛仔裤",
+    "secondCateId": 37,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "女装",
+    "thirdCateId": 351,
+    "thirdCate": "婚纱",
+    "secondCateId": 37,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "女装",
+    "thirdCateId": 352,
+    "thirdCate": "小西装",
+    "secondCateId": 37,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "女装",
+    "thirdCateId": 353,
+    "thirdCate": "卫衣",
+    "secondCateId": 37,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "女装",
+    "thirdCateId": 354,
+    "thirdCate": "毛衣",
+    "secondCateId": 37,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "女装",
+    "thirdCateId": 355,
+    "thirdCate": "休闲裤",
+    "secondCateId": 37,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "女装",
+    "thirdCateId": 356,
+    "thirdCate": "T恤",
+    "secondCateId": 37,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "女装",
+    "thirdCateId": 357,
+    "thirdCate": "风衣",
+    "secondCateId": 37,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "女装",
+    "thirdCateId": 358,
+    "thirdCate": "正装裤",
+    "secondCateId": 37,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "女装",
+    "thirdCateId": 359,
+    "thirdCate": "半身裙",
+    "secondCateId": 37,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "女装",
+    "thirdCateId": 360,
+    "thirdCate": "短裤",
+    "secondCateId": 37,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "女装",
+    "thirdCateId": 361,
+    "thirdCate": "中老年女装",
+    "secondCateId": 37,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "女装",
+    "thirdCateId": 362,
+    "thirdCate": "衬衫",
+    "secondCateId": 37,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "女装",
+    "thirdCateId": 363,
+    "thirdCate": "仿皮皮衣",
+    "secondCateId": 37,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "女装",
+    "thirdCateId": 364,
+    "thirdCate": "马甲",
+    "secondCateId": 37,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "女装",
+    "thirdCateId": 365,
+    "thirdCate": "雪纺衫",
+    "secondCateId": 37,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "女装",
+    "thirdCateId": 366,
+    "thirdCate": "真皮皮衣",
+    "secondCateId": 37,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "女装",
+    "thirdCateId": 367,
+    "thirdCate": "旗袍/唐装",
+    "secondCateId": 37,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "女装",
+    "thirdCateId": 368,
+    "thirdCate": "连衣裙",
+    "secondCateId": 37,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "女装",
+    "thirdCateId": 369,
+    "thirdCate": "羊绒衫",
+    "secondCateId": 37,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "女装",
+    "thirdCateId": 370,
+    "thirdCate": "皮草",
+    "secondCateId": 37,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "女装",
+    "thirdCateId": 371,
+    "thirdCate": "加绒裤",
+    "secondCateId": 37,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "女装",
+    "thirdCateId": 372,
+    "thirdCate": "毛衣",
+    "secondCateId": 37,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "服饰配件",
+    "thirdCateId": 373,
+    "thirdCate": "太阳镜",
+    "secondCateId": 38,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "服饰配件",
+    "thirdCateId": 374,
+    "thirdCate": "女士腰带/礼盒",
+    "secondCateId": 38,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "服饰配件",
+    "thirdCateId": 375,
+    "thirdCate": "钥匙扣",
+    "secondCateId": 38,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "服饰配件",
+    "thirdCateId": 376,
+    "thirdCate": "男士腰带/礼盒",
+    "secondCateId": 38,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "服饰配件",
+    "thirdCateId": 377,
+    "thirdCate": "鸭舌帽",
+    "secondCateId": 38,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "服饰配件",
+    "thirdCateId": 378,
+    "thirdCate": "遮阳帽",
+    "secondCateId": 38,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "服饰配件",
+    "thirdCateId": 379,
+    "thirdCate": "领带/领结/领带夹",
+    "secondCateId": 38,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "服饰配件",
+    "thirdCateId": 380,
+    "thirdCate": "女士丝巾/围巾/披肩",
+    "secondCateId": 38,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "服饰配件",
+    "thirdCateId": 381,
+    "thirdCate": "光学镜架/镜片",
+    "secondCateId": 38,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "服饰配件",
+    "thirdCateId": 382,
+    "thirdCate": "遮阳伞/雨伞",
+    "secondCateId": 38,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "服饰配件",
+    "thirdCateId": 383,
+    "thirdCate": "毛线/布面料",
+    "secondCateId": 38,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "服饰配件",
+    "thirdCateId": 384,
+    "thirdCate": "棒球帽",
+    "secondCateId": 38,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "服饰配件",
+    "thirdCateId": 385,
+    "thirdCate": "毛线帽",
+    "secondCateId": 38,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "服饰配件",
+    "thirdCateId": 386,
+    "thirdCate": "围巾/手套/帽子套装",
+    "secondCateId": 38,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "服饰配件",
+    "thirdCateId": 387,
+    "thirdCate": "防晒手套",
+    "secondCateId": 38,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "服饰配件",
+    "thirdCateId": 388,
+    "thirdCate": "礼帽",
+    "secondCateId": 38,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "服饰配件",
+    "thirdCateId": 389,
+    "thirdCate": "口罩",
+    "secondCateId": 38,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "服饰配件",
+    "thirdCateId": 390,
+    "thirdCate": "装饰眼镜",
+    "secondCateId": 38,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "服饰配件",
+    "thirdCateId": 391,
+    "thirdCate": "老花镜",
+    "secondCateId": 38,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "服饰配件",
+    "thirdCateId": 392,
+    "thirdCate": "袖扣",
+    "secondCateId": 38,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "服饰配件",
+    "thirdCateId": 393,
+    "thirdCate": "假领",
+    "secondCateId": 38,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "服饰配件",
+    "thirdCateId": 394,
+    "thirdCate": "男士丝巾/围巾",
+    "secondCateId": 38,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "服饰配件",
+    "thirdCateId": 395,
+    "thirdCate": "防辐射眼镜",
+    "secondCateId": 38,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "服饰配件",
+    "thirdCateId": 396,
+    "thirdCate": "真皮手套",
+    "secondCateId": 38,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "服饰配件",
+    "thirdCateId": 397,
+    "thirdCate": "贝雷帽",
+    "secondCateId": 38,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "服饰配件",
+    "thirdCateId": 398,
+    "thirdCate": "毛线手套",
+    "secondCateId": 38,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "服饰配件",
+    "thirdCateId": 399,
+    "thirdCate": "游泳镜",
+    "secondCateId": 38,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "服饰配件",
+    "thirdCateId": 400,
+    "thirdCate": "耳罩/耳包",
+    "secondCateId": 38,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "内衣",
+    "thirdCateId": 401,
+    "thirdCate": "文胸",
+    "secondCateId": 39,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "内衣",
+    "thirdCateId": 402,
+    "thirdCate": "睡衣/家居服",
+    "secondCateId": 39,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "内衣",
+    "thirdCateId": 403,
+    "thirdCate": "女式内裤",
+    "secondCateId": 39,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "内衣",
+    "thirdCateId": 404,
+    "thirdCate": "休闲棉袜",
+    "secondCateId": 39,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "内衣",
+    "thirdCateId": 405,
+    "thirdCate": "男式内裤",
+    "secondCateId": 39,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "内衣",
+    "thirdCateId": 406,
+    "thirdCate": "保暖内衣",
+    "secondCateId": 39,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "内衣",
+    "thirdCateId": 407,
+    "thirdCate": "塑身美体",
+    "secondCateId": 39,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "内衣",
+    "thirdCateId": 408,
+    "thirdCate": "连裤袜/丝袜",
+    "secondCateId": 39,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "内衣",
+    "thirdCateId": 409,
+    "thirdCate": "情侣睡衣",
+    "secondCateId": 39,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "内衣",
+    "thirdCateId": 410,
+    "thirdCate": "秋衣秋裤",
+    "secondCateId": 39,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "内衣",
+    "thirdCateId": 411,
+    "thirdCate": "泳衣",
+    "secondCateId": 39,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "内衣",
+    "thirdCateId": 412,
+    "thirdCate": "少女文胸",
+    "secondCateId": 39,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "内衣",
+    "thirdCateId": 413,
+    "thirdCate": "文胸套装",
+    "secondCateId": 39,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "内衣",
+    "thirdCateId": 414,
+    "thirdCate": "抹胸",
+    "secondCateId": 39,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "内衣",
+    "thirdCateId": 415,
+    "thirdCate": "大码内衣",
+    "secondCateId": 39,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "内衣",
+    "thirdCateId": 416,
+    "thirdCate": "情趣内衣",
+    "secondCateId": 39,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "内衣",
+    "thirdCateId": 417,
+    "thirdCate": "内衣配件",
+    "secondCateId": 39,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "内衣",
+    "thirdCateId": 418,
+    "thirdCate": "商务男袜",
+    "secondCateId": 39,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "内衣",
+    "thirdCateId": 419,
+    "thirdCate": "打底裤袜",
+    "secondCateId": 39,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "内衣",
+    "thirdCateId": 420,
+    "thirdCate": "美腿袜",
+    "secondCateId": 39,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "男装",
+    "thirdCateId": 421,
+    "thirdCate": "羊毛衫",
+    "secondCateId": 40,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "男装",
+    "thirdCateId": 422,
+    "thirdCate": "短裤",
+    "secondCateId": 40,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "男装",
+    "thirdCateId": 423,
+    "thirdCate": "真皮皮衣",
+    "secondCateId": 40,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "男装",
+    "thirdCateId": 424,
+    "thirdCate": "仿皮皮衣",
+    "secondCateId": 40,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "男装",
+    "thirdCateId": 425,
+    "thirdCate": "风衣",
+    "secondCateId": 40,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "男装",
+    "thirdCateId": 426,
+    "thirdCate": "设计师/潮牌",
+    "secondCateId": 40,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "男装",
+    "thirdCateId": 427,
+    "thirdCate": "牛仔裤",
+    "secondCateId": 40,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "男装",
+    "thirdCateId": 428,
+    "thirdCate": "休闲裤",
+    "secondCateId": 40,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "男装",
+    "thirdCateId": 429,
+    "thirdCate": "衬衫",
+    "secondCateId": 40,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "男装",
+    "thirdCateId": 430,
+    "thirdCate": "卫衣",
+    "secondCateId": 40,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "男装",
+    "thirdCateId": 431,
+    "thirdCate": "毛呢大衣",
+    "secondCateId": 40,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "男装",
+    "thirdCateId": 432,
+    "thirdCate": "工装",
+    "secondCateId": 40,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "男装",
+    "thirdCateId": 433,
+    "thirdCate": "西裤",
+    "secondCateId": 40,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "男装",
+    "thirdCateId": 434,
+    "thirdCate": "马甲/背心",
+    "secondCateId": 40,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "男装",
+    "thirdCateId": 435,
+    "thirdCate": "夹克",
+    "secondCateId": 40,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "男装",
+    "thirdCateId": 436,
+    "thirdCate": "针织衫",
+    "secondCateId": 40,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "男装",
+    "thirdCateId": 437,
+    "thirdCate": "中老年男装",
+    "secondCateId": 40,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "男装",
+    "thirdCateId": 438,
+    "thirdCate": "大码男装",
+    "secondCateId": 40,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "男装",
+    "thirdCateId": 439,
+    "thirdCate": "唐装/中山装",
+    "secondCateId": 40,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "男装",
+    "thirdCateId": 440,
+    "thirdCate": "西服",
+    "secondCateId": 40,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "男装",
+    "thirdCateId": 441,
+    "thirdCate": "T恤",
+    "secondCateId": 40,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "男装",
+    "thirdCateId": 442,
+    "thirdCate": "POLO衫",
+    "secondCateId": 40,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "男装",
+    "thirdCateId": 443,
+    "thirdCate": "卫裤/运动裤",
+    "secondCateId": 40,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "男装",
+    "thirdCateId": 444,
+    "thirdCate": "西服套装",
+    "secondCateId": 40,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "男装",
+    "thirdCateId": 445,
+    "thirdCate": "加绒裤",
+    "secondCateId": 40,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 7,
+    "secondCate": "男装",
+    "thirdCateId": 446,
+    "thirdCate": "羊绒衫",
+    "secondCateId": 40,
+    "firstCate": "服饰内衣"
+  },
+  {
+    "firstCateId": 8,
+    "secondCate": "钟表",
+    "thirdCateId": 447,
+    "thirdCate": "瑞表",
+    "secondCateId": 41,
+    "firstCate": "钟表"
+  },
+  {
+    "firstCateId": 8,
+    "secondCate": "钟表",
+    "thirdCateId": 448,
+    "thirdCate": "国表",
+    "secondCateId": 41,
+    "firstCate": "钟表"
+  },
+  {
+    "firstCateId": 8,
+    "secondCate": "钟表",
+    "thirdCateId": 449,
+    "thirdCate": "日韩表",
+    "secondCateId": 41,
+    "firstCate": "钟表"
+  },
+  {
+    "firstCateId": 8,
+    "secondCate": "钟表",
+    "thirdCateId": 450,
+    "thirdCate": "欧美表",
+    "secondCateId": 41,
+    "firstCate": "钟表"
+  },
+  {
+    "firstCateId": 8,
+    "secondCate": "钟表",
+    "thirdCateId": 451,
+    "thirdCate": "钟表配件",
+    "secondCateId": 41,
+    "firstCate": "钟表"
+  },
+  {
+    "firstCateId": 8,
+    "secondCate": "钟表",
+    "thirdCateId": 452,
+    "thirdCate": "挂钟",
+    "secondCateId": 41,
+    "firstCate": "钟表"
+  },
+  {
+    "firstCateId": 8,
+    "secondCate": "钟表",
+    "thirdCateId": 453,
+    "thirdCate": "德表",
+    "secondCateId": 41,
+    "firstCate": "钟表"
+  },
+  {
+    "firstCateId": 8,
+    "secondCate": "钟表",
+    "thirdCateId": 454,
+    "thirdCate": "闹钟",
+    "secondCateId": 41,
+    "firstCate": "钟表"
+  },
+  {
+    "firstCateId": 9,
+    "secondCate": "流行男鞋",
+    "thirdCateId": 455,
+    "thirdCate": "鞋配件",
+    "secondCateId": 42,
+    "firstCate": "鞋靴"
+  },
+  {
+    "firstCateId": 9,
+    "secondCate": "流行男鞋",
+    "thirdCateId": 456,
+    "thirdCate": "拖鞋/人字拖",
+    "secondCateId": 42,
+    "firstCate": "鞋靴"
+  },
+  {
+    "firstCateId": 9,
+    "secondCate": "流行男鞋",
+    "thirdCateId": 457,
+    "thirdCate": "传统布鞋",
+    "secondCateId": 42,
+    "firstCate": "鞋靴"
+  },
+  {
+    "firstCateId": 9,
+    "secondCate": "流行男鞋",
+    "thirdCateId": 458,
+    "thirdCate": "正装鞋",
+    "secondCateId": 42,
+    "firstCate": "鞋靴"
+  },
+  {
+    "firstCateId": 9,
+    "secondCate": "流行男鞋",
+    "thirdCateId": 459,
+    "thirdCate": "功能鞋",
+    "secondCateId": 42,
+    "firstCate": "鞋靴"
+  },
+  {
+    "firstCateId": 9,
+    "secondCate": "流行男鞋",
+    "thirdCateId": 460,
+    "thirdCate": "凉鞋/沙滩鞋",
+    "secondCateId": 42,
+    "firstCate": "鞋靴"
+  },
+  {
+    "firstCateId": 9,
+    "secondCate": "流行男鞋",
+    "thirdCateId": 461,
+    "thirdCate": "增高鞋",
+    "secondCateId": 42,
+    "firstCate": "鞋靴"
+  },
+  {
+    "firstCateId": 9,
+    "secondCate": "流行男鞋",
+    "thirdCateId": 462,
+    "thirdCate": "男靴",
+    "secondCateId": 42,
+    "firstCate": "鞋靴"
+  },
+  {
+    "firstCateId": 9,
+    "secondCate": "流行男鞋",
+    "thirdCateId": 463,
+    "thirdCate": "商务休闲鞋",
+    "secondCateId": 42,
+    "firstCate": "鞋靴"
+  },
+  {
+    "firstCateId": 9,
+    "secondCate": "流行男鞋",
+    "thirdCateId": 464,
+    "thirdCate": "雨鞋/雨靴",
+    "secondCateId": 42,
+    "firstCate": "鞋靴"
+  },
+  {
+    "firstCateId": 9,
+    "secondCate": "流行男鞋",
+    "thirdCateId": 465,
+    "thirdCate": "定制鞋",
+    "secondCateId": 42,
+    "firstCate": "鞋靴"
+  },
+  {
+    "firstCateId": 9,
+    "secondCate": "时尚女鞋",
+    "thirdCateId": 466,
+    "thirdCate": "女靴",
+    "secondCateId": 43,
+    "firstCate": "鞋靴"
+  },
+  {
+    "firstCateId": 9,
+    "secondCate": "时尚女鞋",
+    "thirdCateId": 467,
+    "thirdCate": "雪地靴",
+    "secondCateId": 43,
+    "firstCate": "鞋靴"
+  },
+  {
+    "firstCateId": 9,
+    "secondCate": "时尚女鞋",
+    "thirdCateId": 468,
+    "thirdCate": "凉鞋",
+    "secondCateId": 43,
+    "firstCate": "鞋靴"
+  },
+  {
+    "firstCateId": 9,
+    "secondCate": "时尚女鞋",
+    "thirdCateId": 469,
+    "thirdCate": "踝靴",
+    "secondCateId": 43,
+    "firstCate": "鞋靴"
+  },
+  {
+    "firstCateId": 9,
+    "secondCate": "时尚女鞋",
+    "thirdCateId": 470,
+    "thirdCate": "拖鞋/人字拖",
+    "secondCateId": 43,
+    "firstCate": "鞋靴"
+  },
+  {
+    "firstCateId": 9,
+    "secondCate": "时尚女鞋",
+    "thirdCateId": 471,
+    "thirdCate": "高跟鞋",
+    "secondCateId": 43,
+    "firstCate": "鞋靴"
+  },
+  {
+    "firstCateId": 9,
+    "secondCate": "时尚女鞋",
+    "thirdCateId": 472,
+    "thirdCate": "单鞋",
+    "secondCateId": 43,
+    "firstCate": "鞋靴"
+  },
+  {
+    "firstCateId": 9,
+    "secondCate": "时尚女鞋",
+    "thirdCateId": 473,
+    "thirdCate": "妈妈鞋",
+    "secondCateId": 43,
+    "firstCate": "鞋靴"
+  },
+  {
+    "firstCateId": 9,
+    "secondCate": "时尚女鞋",
+    "thirdCateId": 474,
+    "thirdCate": "筒靴",
+    "secondCateId": 43,
+    "firstCate": "鞋靴"
+  },
+  {
+    "firstCateId": 9,
+    "secondCate": "时尚女鞋",
+    "thirdCateId": 475,
+    "thirdCate": "防水台",
+    "secondCateId": 43,
+    "firstCate": "鞋靴"
+  },
+  {
+    "firstCateId": 9,
+    "secondCate": "时尚女鞋",
+    "thirdCateId": 476,
+    "thirdCate": "坡跟鞋",
+    "secondCateId": 43,
+    "firstCate": "鞋靴"
+  },
+  {
+    "firstCateId": 9,
+    "secondCate": "时尚女鞋",
+    "thirdCateId": 477,
+    "thirdCate": "布鞋/绣花鞋",
+    "secondCateId": 43,
+    "firstCate": "鞋靴"
+  },
+  {
+    "firstCateId": 9,
+    "secondCate": "时尚女鞋",
+    "thirdCateId": 478,
+    "thirdCate": "松糕鞋",
+    "secondCateId": 43,
+    "firstCate": "鞋靴"
+  },
+  {
+    "firstCateId": 9,
+    "secondCate": "时尚女鞋",
+    "thirdCateId": 479,
+    "thirdCate": "马丁靴",
+    "secondCateId": 43,
+    "firstCate": "鞋靴"
+  },
+  {
+    "firstCateId": 9,
+    "secondCate": "时尚女鞋",
+    "thirdCateId": 480,
+    "thirdCate": "内增高",
+    "secondCateId": 43,
+    "firstCate": "鞋靴"
+  },
+  {
+    "firstCateId": 9,
+    "secondCate": "时尚女鞋",
+    "thirdCateId": 481,
+    "thirdCate": "鱼嘴鞋",
+    "secondCateId": 43,
+    "firstCate": "鞋靴"
+  },
+  {
+    "firstCateId": 9,
+    "secondCate": "时尚女鞋",
+    "thirdCateId": 482,
+    "thirdCate": "鞋配件",
+    "secondCateId": 43,
+    "firstCate": "鞋靴"
+  },
+  {
+    "firstCateId": 9,
+    "secondCate": "时尚女鞋",
+    "thirdCateId": 483,
+    "thirdCate": "雨鞋/雨靴",
+    "secondCateId": 43,
+    "firstCate": "鞋靴"
+  },
+  {
+    "firstCateId": 9,
+    "secondCate": "时尚女鞋",
+    "thirdCateId": 484,
+    "thirdCate": "特色鞋",
+    "secondCateId": 43,
+    "firstCate": "鞋靴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "童装童鞋",
+    "thirdCateId": 485,
+    "thirdCate": "羽绒服",
+    "secondCateId": 44,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "童装童鞋",
+    "thirdCateId": 486,
+    "thirdCate": "礼服/演出服",
+    "secondCateId": 44,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "童装童鞋",
+    "thirdCateId": 487,
+    "thirdCate": "裤子",
+    "secondCateId": 44,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "童装童鞋",
+    "thirdCateId": 488,
+    "thirdCate": "内衣裤",
+    "secondCateId": 44,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "童装童鞋",
+    "thirdCateId": 489,
+    "thirdCate": "亲子装",
+    "secondCateId": 44,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "童装童鞋",
+    "thirdCateId": 490,
+    "thirdCate": "户外/运动服",
+    "secondCateId": 44,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "童装童鞋",
+    "thirdCateId": 491,
+    "thirdCate": "裙子",
+    "secondCateId": 44,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "童装童鞋",
+    "thirdCateId": 492,
+    "thirdCate": "儿童配饰",
+    "secondCateId": 44,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "童装童鞋",
+    "thirdCateId": 493,
+    "thirdCate": "靴子",
+    "secondCateId": 44,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "童装童鞋",
+    "thirdCateId": 494,
+    "thirdCate": "运动鞋",
+    "secondCateId": 44,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "童装童鞋",
+    "thirdCateId": 495,
+    "thirdCate": "皮鞋/帆布鞋",
+    "secondCateId": 44,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "奶粉",
+    "thirdCateId": 496,
+    "thirdCate": "婴幼奶粉",
+    "secondCateId": 45,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "奶粉",
+    "thirdCateId": 497,
+    "thirdCate": "孕妈奶粉",
+    "secondCateId": 45,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "妈妈专区",
+    "thirdCateId": 498,
+    "thirdCate": "孕妈装",
+    "secondCateId": 46,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "妈妈专区",
+    "thirdCateId": 499,
+    "thirdCate": "文胸/内裤",
+    "secondCateId": 46,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "妈妈专区",
+    "thirdCateId": 500,
+    "thirdCate": "妈咪包/背婴带",
+    "secondCateId": 46,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "妈妈专区",
+    "thirdCateId": 501,
+    "thirdCate": "月子装",
+    "secondCateId": 46,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "妈妈专区",
+    "thirdCateId": 502,
+    "thirdCate": "待产护理",
+    "secondCateId": 46,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "妈妈专区",
+    "thirdCateId": 503,
+    "thirdCate": "防辐射服",
+    "secondCateId": 46,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "妈妈专区",
+    "thirdCateId": 504,
+    "thirdCate": "孕妇护肤",
+    "secondCateId": 46,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "妈妈专区",
+    "thirdCateId": 505,
+    "thirdCate": "产后塑身",
+    "secondCateId": 46,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "妈妈专区",
+    "thirdCateId": 506,
+    "thirdCate": "防溢乳垫",
+    "secondCateId": 46,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "妈妈专区",
+    "thirdCateId": 507,
+    "thirdCate": "孕期营养",
+    "secondCateId": 46,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "寝居服饰",
+    "thirdCateId": 508,
+    "thirdCate": "婴儿外出服",
+    "secondCateId": 47,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "寝居服饰",
+    "thirdCateId": 509,
+    "thirdCate": "婴儿鞋帽袜",
+    "secondCateId": 47,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "寝居服饰",
+    "thirdCateId": 510,
+    "thirdCate": "婴儿内衣",
+    "secondCateId": 47,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "寝居服饰",
+    "thirdCateId": 511,
+    "thirdCate": "家居床品",
+    "secondCateId": 47,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "寝居服饰",
+    "thirdCateId": 512,
+    "thirdCate": "睡袋/抱被",
+    "secondCateId": 47,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "寝居服饰",
+    "thirdCateId": 513,
+    "thirdCate": "爬行垫",
+    "secondCateId": 47,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "寝居服饰",
+    "thirdCateId": 514,
+    "thirdCate": "婴儿礼盒",
+    "secondCateId": 47,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "寝居服饰",
+    "thirdCateId": 515,
+    "thirdCate": "安全防护",
+    "secondCateId": 47,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "喂养用品",
+    "thirdCateId": 516,
+    "thirdCate": "奶瓶奶嘴",
+    "secondCateId": 48,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "喂养用品",
+    "thirdCateId": 517,
+    "thirdCate": "水壶/水杯",
+    "secondCateId": 48,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "喂养用品",
+    "thirdCateId": 518,
+    "thirdCate": "儿童餐具",
+    "secondCateId": 48,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "喂养用品",
+    "thirdCateId": 519,
+    "thirdCate": "牙胶安抚",
+    "secondCateId": 48,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "喂养用品",
+    "thirdCateId": 520,
+    "thirdCate": "围兜/防溅衣",
+    "secondCateId": 48,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "喂养用品",
+    "thirdCateId": 521,
+    "thirdCate": "暖奶消毒",
+    "secondCateId": 48,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "喂养用品",
+    "thirdCateId": 522,
+    "thirdCate": "吸奶器",
+    "secondCateId": 48,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "喂养用品",
+    "thirdCateId": 523,
+    "thirdCate": "食物存储",
+    "secondCateId": 48,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "喂养用品",
+    "thirdCateId": 524,
+    "thirdCate": "辅食料理机",
+    "secondCateId": 48,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "尿裤湿巾",
+    "thirdCateId": 525,
+    "thirdCate": "婴儿尿裤",
+    "secondCateId": 49,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "尿裤湿巾",
+    "thirdCateId": 526,
+    "thirdCate": "拉拉裤",
+    "secondCateId": 49,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "尿裤湿巾",
+    "thirdCateId": 527,
+    "thirdCate": "婴儿湿巾",
+    "secondCateId": 49,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "尿裤湿巾",
+    "thirdCateId": 528,
+    "thirdCate": "成人尿裤",
+    "secondCateId": 49,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "洗护用品",
+    "thirdCateId": 529,
+    "thirdCate": "日常护理",
+    "secondCateId": 50,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "洗护用品",
+    "thirdCateId": 530,
+    "thirdCate": "宝宝护肤",
+    "secondCateId": 50,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "洗护用品",
+    "thirdCateId": 531,
+    "thirdCate": "洗澡用具",
+    "secondCateId": 50,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "洗护用品",
+    "thirdCateId": 532,
+    "thirdCate": "洗发沐浴",
+    "secondCateId": 50,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "洗护用品",
+    "thirdCateId": 533,
+    "thirdCate": "驱蚊防晒",
+    "secondCateId": 50,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "洗护用品",
+    "thirdCateId": 534,
+    "thirdCate": "座便器",
+    "secondCateId": 50,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "洗护用品",
+    "thirdCateId": 535,
+    "thirdCate": "洗衣液/皂",
+    "secondCateId": 50,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "洗护用品",
+    "thirdCateId": 536,
+    "thirdCate": "理发器",
+    "secondCateId": 50,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "洗护用品",
+    "thirdCateId": 537,
+    "thirdCate": "婴儿口腔清洁",
+    "secondCateId": 50,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "洗护用品",
+    "thirdCateId": 538,
+    "thirdCate": "奶瓶清洗",
+    "secondCateId": 50,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "童车童床",
+    "thirdCateId": 539,
+    "thirdCate": "婴儿推车",
+    "secondCateId": 51,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "童车童床",
+    "thirdCateId": 540,
+    "thirdCate": "电动车",
+    "secondCateId": 51,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "童车童床",
+    "thirdCateId": 541,
+    "thirdCate": "婴儿床",
+    "secondCateId": 51,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "童车童床",
+    "thirdCateId": 542,
+    "thirdCate": "自行车",
+    "secondCateId": 51,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "童车童床",
+    "thirdCateId": 543,
+    "thirdCate": "餐椅摇椅",
+    "secondCateId": 51,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "童车童床",
+    "thirdCateId": 544,
+    "thirdCate": "三轮车",
+    "secondCateId": 51,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "童车童床",
+    "thirdCateId": 545,
+    "thirdCate": "滑板车",
+    "secondCateId": 51,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "童车童床",
+    "thirdCateId": 546,
+    "thirdCate": "学步车",
+    "secondCateId": 51,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "童车童床",
+    "thirdCateId": 547,
+    "thirdCate": "扭扭车",
+    "secondCateId": 51,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "童车童床",
+    "thirdCateId": 548,
+    "thirdCate": "婴儿床垫",
+    "secondCateId": 51,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "营养辅食",
+    "thirdCateId": 549,
+    "thirdCate": "米粉/菜粉",
+    "secondCateId": 52,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "营养辅食",
+    "thirdCateId": 550,
+    "thirdCate": "宝宝零食",
+    "secondCateId": 52,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "营养辅食",
+    "thirdCateId": 551,
+    "thirdCate": "钙铁锌/维生素",
+    "secondCateId": 52,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "营养辅食",
+    "thirdCateId": 552,
+    "thirdCate": "果泥/果汁",
+    "secondCateId": 52,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "营养辅食",
+    "thirdCateId": 553,
+    "thirdCate": "DHA",
+    "secondCateId": 52,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "营养辅食",
+    "thirdCateId": 554,
+    "thirdCate": "面条/粥",
+    "secondCateId": 52,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "营养辅食",
+    "thirdCateId": 555,
+    "thirdCate": "益生菌/初乳",
+    "secondCateId": 52,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "营养辅食",
+    "thirdCateId": 556,
+    "thirdCate": "清火/开胃",
+    "secondCateId": 52,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "安全座椅",
+    "thirdCateId": 557,
+    "thirdCate": "安全座椅",
+    "secondCateId": 53,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "安全座椅",
+    "thirdCateId": 558,
+    "thirdCate": "提篮式",
+    "secondCateId": 53,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 10,
+    "secondCate": "安全座椅",
+    "thirdCateId": 559,
+    "thirdCate": "增高垫",
+    "secondCateId": 53,
+    "firstCate": "母婴"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "功能箱包",
+    "thirdCateId": 560,
+    "thirdCate": "相机包",
+    "secondCateId": 54,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "功能箱包",
+    "thirdCateId": 561,
+    "thirdCate": "旅行配件",
+    "secondCateId": 54,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "功能箱包",
+    "thirdCateId": 562,
+    "thirdCate": "书包",
+    "secondCateId": 54,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "功能箱包",
+    "thirdCateId": 563,
+    "thirdCate": "腰包/胸包",
+    "secondCateId": 54,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "功能箱包",
+    "thirdCateId": 564,
+    "thirdCate": "电脑包",
+    "secondCateId": 54,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "功能箱包",
+    "thirdCateId": 565,
+    "thirdCate": "旅行包",
+    "secondCateId": 54,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "功能箱包",
+    "thirdCateId": 566,
+    "thirdCate": "拉杆箱",
+    "secondCateId": 54,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "功能箱包",
+    "thirdCateId": 567,
+    "thirdCate": "妈咪包",
+    "secondCateId": 54,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "功能箱包",
+    "thirdCateId": 568,
+    "thirdCate": "休闲运动包",
+    "secondCateId": 54,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "功能箱包",
+    "thirdCateId": 569,
+    "thirdCate": "登山包",
+    "secondCateId": 54,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "功能箱包",
+    "thirdCateId": 570,
+    "thirdCate": "拉杆包",
+    "secondCateId": 54,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "礼品",
+    "thirdCateId": 571,
+    "thirdCate": "婚庆节庆",
+    "secondCateId": 55,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "礼品",
+    "thirdCateId": 572,
+    "thirdCate": "鲜花",
+    "secondCateId": 55,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "礼品",
+    "thirdCateId": 573,
+    "thirdCate": "火机烟具",
+    "secondCateId": 55,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "礼品",
+    "thirdCateId": 574,
+    "thirdCate": "工艺礼品",
+    "secondCateId": 55,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "礼品",
+    "thirdCateId": 575,
+    "thirdCate": "礼品文具",
+    "secondCateId": 55,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "礼品",
+    "thirdCateId": 576,
+    "thirdCate": "创意礼品",
+    "secondCateId": 55,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "礼品",
+    "thirdCateId": 577,
+    "thirdCate": "美妆礼品",
+    "secondCateId": 55,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "礼品",
+    "thirdCateId": 578,
+    "thirdCate": "礼品定制",
+    "secondCateId": 55,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "礼品",
+    "thirdCateId": 579,
+    "thirdCate": "古董文玩",
+    "secondCateId": 55,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "礼品",
+    "thirdCateId": 580,
+    "thirdCate": "收藏品",
+    "secondCateId": 55,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "礼品",
+    "thirdCateId": 581,
+    "thirdCate": "军刀军具",
+    "secondCateId": 55,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "礼品",
+    "thirdCateId": 582,
+    "thirdCate": "礼盒礼券",
+    "secondCateId": 55,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "潮流女包",
+    "thirdCateId": 583,
+    "thirdCate": "钱包",
+    "secondCateId": 56,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "潮流女包",
+    "thirdCateId": 584,
+    "thirdCate": "卡包/零钱包",
+    "secondCateId": 56,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "潮流女包",
+    "thirdCateId": 585,
+    "thirdCate": "单肩包",
+    "secondCateId": 56,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "潮流女包",
+    "thirdCateId": 586,
+    "thirdCate": "手拿包",
+    "secondCateId": 56,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "潮流女包",
+    "thirdCateId": 587,
+    "thirdCate": "双肩包",
+    "secondCateId": 56,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "潮流女包",
+    "thirdCateId": 588,
+    "thirdCate": "手提包",
+    "secondCateId": 56,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "潮流女包",
+    "thirdCateId": 589,
+    "thirdCate": "斜挎包",
+    "secondCateId": 56,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "潮流女包",
+    "thirdCateId": 590,
+    "thirdCate": "钥匙包",
+    "secondCateId": 56,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "精品男包",
+    "thirdCateId": 591,
+    "thirdCate": "商务公文包",
+    "secondCateId": 57,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "精品男包",
+    "thirdCateId": 592,
+    "thirdCate": "男士手包",
+    "secondCateId": 57,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "精品男包",
+    "thirdCateId": 593,
+    "thirdCate": "男士钱包",
+    "secondCateId": 57,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "精品男包",
+    "thirdCateId": 594,
+    "thirdCate": "双肩包",
+    "secondCateId": 57,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "精品男包",
+    "thirdCateId": 595,
+    "thirdCate": "单肩/斜挎包",
+    "secondCateId": 57,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "精品男包",
+    "thirdCateId": 596,
+    "thirdCate": "卡包名片夹",
+    "secondCateId": 57,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "精品男包",
+    "thirdCateId": 597,
+    "thirdCate": "钥匙包",
+    "secondCateId": 57,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "奢侈品",
+    "thirdCateId": 598,
+    "thirdCate": "服饰",
+    "secondCateId": 58,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "奢侈品",
+    "thirdCateId": 599,
+    "thirdCate": "鞋靴",
+    "secondCateId": 58,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "奢侈品",
+    "thirdCateId": 600,
+    "thirdCate": "饰品",
+    "secondCateId": 58,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "奢侈品",
+    "thirdCateId": 601,
+    "thirdCate": "箱包",
+    "secondCateId": 58,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "奢侈品",
+    "thirdCateId": 602,
+    "thirdCate": "钱包",
+    "secondCateId": 58,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "奢侈品",
+    "thirdCateId": 603,
+    "thirdCate": "腰带",
+    "secondCateId": 58,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "奢侈品",
+    "thirdCateId": 604,
+    "thirdCate": "太阳镜/眼镜框",
+    "secondCateId": 58,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "奢侈品",
+    "thirdCateId": 605,
+    "thirdCate": "配件",
+    "secondCateId": 58,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "奢侈品",
+    "thirdCateId": 606,
+    "thirdCate": "高档化妆品",
+    "secondCateId": 58,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "奢侈品",
+    "thirdCateId": 607,
+    "thirdCate": "名品腕表",
+    "secondCateId": 58,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 11,
+    "secondCate": "婚庆",
+    "thirdCateId": 608,
+    "thirdCate": "婚庆礼品/用品",
+    "secondCateId": 59,
+    "firstCate": "礼品箱包"
+  },
+  {
+    "firstCateId": 12,
+    "secondCate": "粮油调味",
+    "thirdCateId": 609,
+    "thirdCate": "调味品",
+    "secondCateId": 60,
+    "firstCate": "食品饮料、保健食品"
+  },
+  {
+    "firstCateId": 12,
+    "secondCate": "粮油调味",
+    "thirdCateId": 610,
+    "thirdCate": "方便食品",
+    "secondCateId": 60,
+    "firstCate": "食品饮料、保健食品"
+  },
+  {
+    "firstCateId": 12,
+    "secondCate": "粮油调味",
+    "thirdCateId": 611,
+    "thirdCate": "米",
+    "secondCateId": 60,
+    "firstCate": "食品饮料、保健食品"
+  },
+  {
+    "firstCateId": 12,
+    "secondCate": "粮油调味",
+    "thirdCateId": 612,
+    "thirdCate": "南北干货",
+    "secondCateId": 60,
+    "firstCate": "食品饮料、保健食品"
+  },
+  {
+    "firstCateId": 12,
+    "secondCate": "粮油调味",
+    "thirdCateId": 613,
+    "thirdCate": "食用油",
+    "secondCateId": 60,
+    "firstCate": "食品饮料、保健食品"
+  },
+  {
+    "firstCateId": 12,
+    "secondCate": "粮油调味",
+    "thirdCateId": 614,
+    "thirdCate": "有机食品",
+    "secondCateId": 60,
+    "firstCate": "食品饮料、保健食品"
+  },
+  {
+    "firstCateId": 12,
+    "secondCate": "休闲食品",
+    "thirdCateId": 615,
+    "thirdCate": "休闲零食",
+    "secondCateId": 61,
+    "firstCate": "食品饮料、保健食品"
+  },
+  {
+    "firstCateId": 12,
+    "secondCate": "休闲食品",
+    "thirdCateId": 616,
+    "thirdCate": "饼干蛋糕",
+    "secondCateId": 61,
+    "firstCate": "食品饮料、保健食品"
+  },
+  {
+    "firstCateId": 12,
+    "secondCate": "休闲食品",
+    "thirdCateId": 617,
+    "thirdCate": "糖果/巧克力",
+    "secondCateId": 61,
+    "firstCate": "食品饮料、保健食品"
+  },
+  {
+    "firstCateId": 12,
+    "secondCate": "休闲食品",
+    "thirdCateId": 618,
+    "thirdCate": "肉干肉脯",
+    "secondCateId": 61,
+    "firstCate": "食品饮料、保健食品"
+  },
+  {
+    "firstCateId": 12,
+    "secondCate": "休闲食品",
+    "thirdCateId": 619,
+    "thirdCate": "坚果炒货",
+    "secondCateId": 61,
+    "firstCate": "食品饮料、保健食品"
+  },
+  {
+    "firstCateId": 12,
+    "secondCate": "休闲食品",
+    "thirdCateId": 620,
+    "thirdCate": "蜜饯果干",
+    "secondCateId": 61,
+    "firstCate": "食品饮料、保健食品"
+  },
+  {
+    "firstCateId": 12,
+    "secondCate": "进口食品",
+    "thirdCateId": 621,
+    "thirdCate": "冲调饮品",
+    "secondCateId": 62,
+    "firstCate": "食品饮料、保健食品"
+  },
+  {
+    "firstCateId": 12,
+    "secondCate": "进口食品",
+    "thirdCateId": 622,
+    "thirdCate": "粮油调味",
+    "secondCateId": 62,
+    "firstCate": "食品饮料、保健食品"
+  },
+  {
+    "firstCateId": 12,
+    "secondCate": "进口食品",
+    "thirdCateId": 623,
+    "thirdCate": "牛奶",
+    "secondCateId": 62,
+    "firstCate": "食品饮料、保健食品"
+  },
+  {
+    "firstCateId": 12,
+    "secondCate": "食品礼券",
+    "thirdCateId": 624,
+    "thirdCate": "月饼",
+    "secondCateId": 63,
+    "firstCate": "食品饮料、保健食品"
+  },
+  {
+    "firstCateId": 12,
+    "secondCate": "食品礼券",
+    "thirdCateId": 625,
+    "thirdCate": "卡券",
+    "secondCateId": 63,
+    "firstCate": "食品饮料、保健食品"
+  },
+  {
+    "firstCateId": 12,
+    "secondCate": "食品礼券",
+    "thirdCateId": 626,
+    "thirdCate": "粽子",
+    "secondCateId": 63,
+    "firstCate": "食品饮料、保健食品"
+  },
+  {
+    "firstCateId": 12,
+    "secondCate": "食品礼券",
+    "thirdCateId": 627,
+    "thirdCate": "大闸蟹",
+    "secondCateId": 63,
+    "firstCate": "食品饮料、保健食品"
+  },
+  {
+    "firstCateId": 12,
+    "secondCate": "饮料冲调",
+    "thirdCateId": 628,
+    "thirdCate": "冲饮谷物",
+    "secondCateId": 64,
+    "firstCate": "食品饮料、保健食品"
+  },
+  {
+    "firstCateId": 12,
+    "secondCate": "饮料冲调",
+    "thirdCateId": 629,
+    "thirdCate": "咖啡/奶茶",
+    "secondCateId": 64,
+    "firstCate": "食品饮料、保健食品"
+  },
+  {
+    "firstCateId": 12,
+    "secondCate": "饮料冲调",
+    "thirdCateId": 630,
+    "thirdCate": "饮料",
+    "secondCateId": 64,
+    "firstCate": "食品饮料、保健食品"
+  },
+  {
+    "firstCateId": 12,
+    "secondCate": "饮料冲调",
+    "thirdCateId": 631,
+    "thirdCate": "饮用水",
+    "secondCateId": 64,
+    "firstCate": "食品饮料、保健食品"
+  },
+  {
+    "firstCateId": 12,
+    "secondCate": "饮料冲调",
+    "thirdCateId": 632,
+    "thirdCate": "蜂蜜/柚子茶",
+    "secondCateId": 64,
+    "firstCate": "食品饮料、保健食品"
+  },
+  {
+    "firstCateId": 12,
+    "secondCate": "饮料冲调",
+    "thirdCateId": 633,
+    "thirdCate": "牛奶乳品",
+    "secondCateId": 64,
+    "firstCate": "食品饮料、保健食品"
+  },
+  {
+    "firstCateId": 12,
+    "secondCate": "饮料冲调",
+    "thirdCateId": 634,
+    "thirdCate": "成人奶粉",
+    "secondCateId": 64,
+    "firstCate": "食品饮料、保健食品"
+  },
+  {
+    "firstCateId": 12,
+    "secondCate": "茗茶",
+    "thirdCateId": 635,
+    "thirdCate": "花草茶",
+    "secondCateId": 65,
+    "firstCate": "食品饮料、保健食品"
+  },
+  {
+    "firstCateId": 12,
+    "secondCate": "茗茶",
+    "thirdCateId": 636,
+    "thirdCate": "乌龙茶",
+    "secondCateId": 65,
+    "firstCate": "食品饮料、保健食品"
+  },
+  {
+    "firstCateId": 12,
+    "secondCate": "茗茶",
+    "thirdCateId": 637,
+    "thirdCate": "红茶",
+    "secondCateId": 65,
+    "firstCate": "食品饮料、保健食品"
+  },
+  {
+    "firstCateId": 12,
+    "secondCate": "茗茶",
+    "thirdCateId": 638,
+    "thirdCate": "普洱",
+    "secondCateId": 65,
+    "firstCate": "食品饮料、保健食品"
+  },
+  {
+    "firstCateId": 12,
+    "secondCate": "茗茶",
+    "thirdCateId": 639,
+    "thirdCate": "绿茶",
+    "secondCateId": 65,
+    "firstCate": "食品饮料、保健食品"
+  },
+  {
+    "firstCateId": 12,
+    "secondCate": "茗茶",
+    "thirdCateId": 640,
+    "thirdCate": "铁观音",
+    "secondCateId": 65,
+    "firstCate": "食品饮料、保健食品"
+  },
+  {
+    "firstCateId": 12,
+    "secondCate": "茗茶",
+    "thirdCateId": 641,
+    "thirdCate": "养生茶",
+    "secondCateId": 65,
+    "firstCate": "食品饮料、保健食品"
+  },
+  {
+    "firstCateId": 12,
+    "secondCate": "茗茶",
+    "thirdCateId": 642,
+    "thirdCate": "龙井",
+    "secondCateId": 65,
+    "firstCate": "食品饮料、保健食品"
+  },
+  {
+    "firstCateId": 12,
+    "secondCate": "茗茶",
+    "thirdCateId": 643,
+    "thirdCate": "黑茶",
+    "secondCateId": 65,
+    "firstCate": "食品饮料、保健食品"
+  },
+  {
+    "firstCateId": 12,
+    "secondCate": "茗茶",
+    "thirdCateId": 644,
+    "thirdCate": "白茶",
+    "secondCateId": 65,
+    "firstCate": "食品饮料、保健食品"
+  },
+  {
+    "firstCateId": 12,
+    "secondCate": "茗茶",
+    "thirdCateId": 645,
+    "thirdCate": "其它茶",
+    "secondCateId": 65,
+    "firstCate": "食品饮料、保健食品"
+  },
+  {
+    "firstCateId": 12,
+    "secondCate": "茗茶",
+    "thirdCateId": 646,
+    "thirdCate": "花果茶",
+    "secondCateId": 65,
+    "firstCate": "食品饮料、保健食品"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "银饰",
+    "thirdCateId": 647,
+    "thirdCate": "银戒指",
+    "secondCateId": 66,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "银饰",
+    "thirdCateId": 648,
+    "thirdCate": "宝宝银饰",
+    "secondCateId": 66,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "银饰",
+    "thirdCateId": 649,
+    "thirdCate": "银手镯",
+    "secondCateId": 66,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "银饰",
+    "thirdCateId": 650,
+    "thirdCate": "银手链/脚链",
+    "secondCateId": 66,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "银饰",
+    "thirdCateId": 651,
+    "thirdCate": "银吊坠/项链",
+    "secondCateId": 66,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "银饰",
+    "thirdCateId": 652,
+    "thirdCate": "银耳饰",
+    "secondCateId": 66,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "时尚饰品",
+    "thirdCateId": 653,
+    "thirdCate": "发饰/发卡",
+    "secondCateId": 67,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "时尚饰品",
+    "thirdCateId": 654,
+    "thirdCate": "手链/脚链",
+    "secondCateId": 67,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "时尚饰品",
+    "thirdCateId": 655,
+    "thirdCate": "饰品配件",
+    "secondCateId": 67,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "时尚饰品",
+    "thirdCateId": 656,
+    "thirdCate": "项链",
+    "secondCateId": 67,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "时尚饰品",
+    "thirdCateId": 657,
+    "thirdCate": "耳饰",
+    "secondCateId": 67,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "时尚饰品",
+    "thirdCateId": 658,
+    "thirdCate": "戒指",
+    "secondCateId": 67,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "时尚饰品",
+    "thirdCateId": 659,
+    "thirdCate": "婚庆饰品",
+    "secondCateId": 67,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "时尚饰品",
+    "thirdCateId": 660,
+    "thirdCate": "毛衣链",
+    "secondCateId": 67,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "时尚饰品",
+    "thirdCateId": 661,
+    "thirdCate": "胸针",
+    "secondCateId": 67,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "木手串/把件",
+    "thirdCateId": 662,
+    "thirdCate": "菩提",
+    "secondCateId": 68,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "木手串/把件",
+    "thirdCateId": 663,
+    "thirdCate": "小叶紫檀",
+    "secondCateId": 68,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "木手串/把件",
+    "thirdCateId": 664,
+    "thirdCate": "檀香",
+    "secondCateId": 68,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "木手串/把件",
+    "thirdCateId": 665,
+    "thirdCate": "橄榄核/核桃",
+    "secondCateId": 68,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "木手串/把件",
+    "thirdCateId": 666,
+    "thirdCate": "黄花梨",
+    "secondCateId": 68,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "木手串/把件",
+    "thirdCateId": 667,
+    "thirdCate": "金丝楠",
+    "secondCateId": 68,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "木手串/把件",
+    "thirdCateId": 668,
+    "thirdCate": "沉香木",
+    "secondCateId": 68,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "翡翠玉石",
+    "thirdCateId": 669,
+    "thirdCate": "项链/吊坠",
+    "secondCateId": 69,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "翡翠玉石",
+    "thirdCateId": 670,
+    "thirdCate": "挂件/摆件/把件",
+    "secondCateId": 69,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "翡翠玉石",
+    "thirdCateId": 671,
+    "thirdCate": "耳饰",
+    "secondCateId": 69,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "翡翠玉石",
+    "thirdCateId": 672,
+    "thirdCate": "戒指",
+    "secondCateId": 69,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "翡翠玉石",
+    "thirdCateId": 673,
+    "thirdCate": "手镯/手串",
+    "secondCateId": 69,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "翡翠玉石",
+    "thirdCateId": 674,
+    "thirdCate": "玉石孤品",
+    "secondCateId": 69,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "水晶玛瑙",
+    "thirdCateId": 675,
+    "thirdCate": "戒指",
+    "secondCateId": 70,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "水晶玛瑙",
+    "thirdCateId": 676,
+    "thirdCate": "摆件/挂件",
+    "secondCateId": 70,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "水晶玛瑙",
+    "thirdCateId": 677,
+    "thirdCate": "手镯/手链/脚链",
+    "secondCateId": 70,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "水晶玛瑙",
+    "thirdCateId": 678,
+    "thirdCate": "项链/吊坠",
+    "secondCateId": 70,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "水晶玛瑙",
+    "thirdCateId": 679,
+    "thirdCate": "耳饰",
+    "secondCateId": 70,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "水晶玛瑙",
+    "thirdCateId": 680,
+    "thirdCate": "头饰/胸针",
+    "secondCateId": 70,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "彩宝",
+    "thirdCateId": 681,
+    "thirdCate": "琥珀/蜜蜡",
+    "secondCateId": 71,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "彩宝",
+    "thirdCateId": 682,
+    "thirdCate": "项链/吊坠",
+    "secondCateId": 71,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "彩宝",
+    "thirdCateId": 683,
+    "thirdCate": "手镯/手链",
+    "secondCateId": 71,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "彩宝",
+    "thirdCateId": 684,
+    "thirdCate": "戒指",
+    "secondCateId": 71,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "彩宝",
+    "thirdCateId": 685,
+    "thirdCate": "耳饰",
+    "secondCateId": 71,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "彩宝",
+    "thirdCateId": 686,
+    "thirdCate": "其他天然宝石",
+    "secondCateId": 71,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "彩宝",
+    "thirdCateId": 687,
+    "thirdCate": "碧玺",
+    "secondCateId": 71,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "彩宝",
+    "thirdCateId": 688,
+    "thirdCate": "红宝石/蓝宝石",
+    "secondCateId": 71,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "彩宝",
+    "thirdCateId": 689,
+    "thirdCate": "祖母绿",
+    "secondCateId": 71,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "彩宝",
+    "thirdCateId": 690,
+    "thirdCate": "坦桑石",
+    "secondCateId": 71,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "彩宝",
+    "thirdCateId": 691,
+    "thirdCate": "葡萄石",
+    "secondCateId": 71,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "彩宝",
+    "thirdCateId": 692,
+    "thirdCate": "珊瑚",
+    "secondCateId": 71,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "K金饰品",
+    "thirdCateId": 693,
+    "thirdCate": "K金戒指",
+    "secondCateId": 72,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "K金饰品",
+    "thirdCateId": 694,
+    "thirdCate": "K金项链",
+    "secondCateId": 72,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "K金饰品",
+    "thirdCateId": 695,
+    "thirdCate": "K金吊坠",
+    "secondCateId": 72,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "K金饰品",
+    "thirdCateId": 696,
+    "thirdCate": "K金耳饰",
+    "secondCateId": 72,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "K金饰品",
+    "thirdCateId": 697,
+    "thirdCate": "K金手镯/手链/脚链",
+    "secondCateId": 72,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "珍珠",
+    "thirdCateId": 698,
+    "thirdCate": "珍珠耳饰",
+    "secondCateId": 73,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "珍珠",
+    "thirdCateId": 699,
+    "thirdCate": "珍珠吊坠",
+    "secondCateId": 73,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "珍珠",
+    "thirdCateId": 700,
+    "thirdCate": "珍珠项链",
+    "secondCateId": 73,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "珍珠",
+    "thirdCateId": 701,
+    "thirdCate": "珍珠手链",
+    "secondCateId": 73,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "珍珠",
+    "thirdCateId": 702,
+    "thirdCate": "珍珠戒指",
+    "secondCateId": 73,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "珍珠",
+    "thirdCateId": 703,
+    "thirdCate": "珍珠胸针",
+    "secondCateId": 73,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "黄金",
+    "thirdCateId": 704,
+    "thirdCate": "黄金手镯/手链/脚链",
+    "secondCateId": 74,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "黄金",
+    "thirdCateId": 705,
+    "thirdCate": "黄金转运珠",
+    "secondCateId": 74,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "黄金",
+    "thirdCateId": 706,
+    "thirdCate": "黄金项链",
+    "secondCateId": 74,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "黄金",
+    "thirdCateId": 707,
+    "thirdCate": "黄金吊坠",
+    "secondCateId": 74,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "黄金",
+    "thirdCateId": 708,
+    "thirdCate": "黄金耳饰",
+    "secondCateId": 74,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "黄金",
+    "thirdCateId": 709,
+    "thirdCate": "黄金戒指",
+    "secondCateId": 74,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "钻石",
+    "thirdCateId": 710,
+    "thirdCate": "钻石项链/吊坠",
+    "secondCateId": 75,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "钻石",
+    "thirdCateId": 711,
+    "thirdCate": "钻戒",
+    "secondCateId": 75,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "钻石",
+    "thirdCateId": 712,
+    "thirdCate": "钻石耳饰",
+    "secondCateId": 75,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "钻石",
+    "thirdCateId": 713,
+    "thirdCate": "裸钻",
+    "secondCateId": 75,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "钻石",
+    "thirdCateId": 714,
+    "thirdCate": "钻石手镯/手链",
+    "secondCateId": 75,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "金银投资",
+    "thirdCateId": 715,
+    "thirdCate": "投资收藏",
+    "secondCateId": 76,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "金银投资",
+    "thirdCateId": 716,
+    "thirdCate": "投资金",
+    "secondCateId": 76,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "金银投资",
+    "thirdCateId": 717,
+    "thirdCate": "投资银",
+    "secondCateId": 76,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "铂金",
+    "thirdCateId": 718,
+    "thirdCate": "铂金戒指",
+    "secondCateId": 77,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "铂金",
+    "thirdCateId": 719,
+    "thirdCate": "铂金项链",
+    "secondCateId": 77,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "铂金",
+    "thirdCateId": 720,
+    "thirdCate": "铂金手镯/手链/脚链",
+    "secondCateId": 77,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 13,
+    "secondCate": "铂金",
+    "thirdCateId": 721,
+    "thirdCate": "铂金耳饰",
+    "secondCateId": 77,
+    "firstCate": "珠宝"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "维修保养",
+    "thirdCateId": 722,
+    "thirdCate": "轮毂",
+    "secondCateId": 78,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "维修保养",
+    "thirdCateId": 723,
+    "thirdCate": "卤素灯",
+    "secondCateId": 78,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "维修保养",
+    "thirdCateId": 724,
+    "thirdCate": "雨刷",
+    "secondCateId": 78,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "维修保养",
+    "thirdCateId": 725,
+    "thirdCate": "贴膜",
+    "secondCateId": 78,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "维修保养",
+    "thirdCateId": 726,
+    "thirdCate": "刹车片",
+    "secondCateId": 78,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "维修保养",
+    "thirdCateId": 727,
+    "thirdCate": "改装配件",
+    "secondCateId": 78,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "维修保养",
+    "thirdCateId": 728,
+    "thirdCate": "底盘装甲/护板",
+    "secondCateId": 78,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "维修保养",
+    "thirdCateId": 729,
+    "thirdCate": "轮胎",
+    "secondCateId": 78,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "维修保养",
+    "thirdCateId": 730,
+    "thirdCate": "机油滤清器",
+    "secondCateId": 78,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "维修保养",
+    "thirdCateId": 731,
+    "thirdCate": "后视镜",
+    "secondCateId": 78,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "维修保养",
+    "thirdCateId": 732,
+    "thirdCate": "维修配件",
+    "secondCateId": 78,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "维修保养",
+    "thirdCateId": 733,
+    "thirdCate": "蓄电池",
+    "secondCateId": 78,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "维修保养",
+    "thirdCateId": 734,
+    "thirdCate": "火花塞",
+    "secondCateId": 78,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "维修保养",
+    "thirdCateId": 735,
+    "thirdCate": "减震器",
+    "secondCateId": 78,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "维修保养",
+    "thirdCateId": 736,
+    "thirdCate": "汽修工具",
+    "secondCateId": 78,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "维修保养",
+    "thirdCateId": 737,
+    "thirdCate": "柴机油/辅助油",
+    "secondCateId": 78,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "维修保养",
+    "thirdCateId": 738,
+    "thirdCate": "汽车喇叭",
+    "secondCateId": 78,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "维修保养",
+    "thirdCateId": 739,
+    "thirdCate": "机油",
+    "secondCateId": 78,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "维修保养",
+    "thirdCateId": 740,
+    "thirdCate": "正时皮带",
+    "secondCateId": 78,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "维修保养",
+    "thirdCateId": 741,
+    "thirdCate": "添加剂",
+    "secondCateId": 78,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "维修保养",
+    "thirdCateId": 742,
+    "thirdCate": "汽车玻璃",
+    "secondCateId": 78,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "维修保养",
+    "thirdCateId": 743,
+    "thirdCate": "防冻液",
+    "secondCateId": 78,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "美容清洗",
+    "thirdCateId": 744,
+    "thirdCate": "洗车工具",
+    "secondCateId": 79,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "美容清洗",
+    "thirdCateId": 745,
+    "thirdCate": "洗车配件",
+    "secondCateId": 79,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "美容清洗",
+    "thirdCateId": 746,
+    "thirdCate": "补漆笔",
+    "secondCateId": 79,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "美容清洗",
+    "thirdCateId": 747,
+    "thirdCate": "打蜡机",
+    "secondCateId": 79,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "美容清洗",
+    "thirdCateId": 748,
+    "thirdCate": "洗车机",
+    "secondCateId": 79,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "美容清洗",
+    "thirdCateId": 749,
+    "thirdCate": "洗车毛巾",
+    "secondCateId": 79,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "美容清洗",
+    "thirdCateId": 750,
+    "thirdCate": "玻璃水",
+    "secondCateId": 79,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "美容清洗",
+    "thirdCateId": 751,
+    "thirdCate": "洗车水枪",
+    "secondCateId": 79,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "美容清洗",
+    "thirdCateId": 752,
+    "thirdCate": "清洁剂",
+    "secondCateId": 79,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "美容清洗",
+    "thirdCateId": 753,
+    "thirdCate": "车蜡",
+    "secondCateId": 79,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "安全自驾",
+    "thirdCateId": 754,
+    "thirdCate": "摩托车装备",
+    "secondCateId": 80,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "安全自驾",
+    "thirdCateId": 755,
+    "thirdCate": "摩托车",
+    "secondCateId": 80,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "安全自驾",
+    "thirdCateId": 756,
+    "thirdCate": "自驾野营",
+    "secondCateId": 80,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "安全自驾",
+    "thirdCateId": 757,
+    "thirdCate": "应急救援",
+    "secondCateId": 80,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "安全自驾",
+    "thirdCateId": 758,
+    "thirdCate": "储物箱",
+    "secondCateId": 80,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "安全自驾",
+    "thirdCateId": 759,
+    "thirdCate": "充气泵",
+    "secondCateId": 80,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "安全自驾",
+    "thirdCateId": 760,
+    "thirdCate": "防盗设备",
+    "secondCateId": 80,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "安全自驾",
+    "thirdCateId": 761,
+    "thirdCate": "胎压监测",
+    "secondCateId": 80,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "安全自驾",
+    "thirdCateId": 762,
+    "thirdCate": "地锁",
+    "secondCateId": 80,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "安全自驾",
+    "thirdCateId": 763,
+    "thirdCate": "保温箱",
+    "secondCateId": 80,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "汽车装饰",
+    "thirdCateId": 764,
+    "thirdCate": "功能小件",
+    "secondCateId": 81,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "汽车装饰",
+    "thirdCateId": 765,
+    "thirdCate": "方向盘套",
+    "secondCateId": 81,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "汽车装饰",
+    "thirdCateId": 766,
+    "thirdCate": "头枕腰靠",
+    "secondCateId": 81,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "汽车装饰",
+    "thirdCateId": 767,
+    "thirdCate": "挂件摆件",
+    "secondCateId": 81,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "汽车装饰",
+    "thirdCateId": 768,
+    "thirdCate": "车衣",
+    "secondCateId": 81,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "汽车装饰",
+    "thirdCateId": 769,
+    "thirdCate": "车身装饰件",
+    "secondCateId": 81,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "汽车装饰",
+    "thirdCateId": 770,
+    "thirdCate": "座套",
+    "secondCateId": 81,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "汽车装饰",
+    "thirdCateId": 771,
+    "thirdCate": "座垫",
+    "secondCateId": 81,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "汽车装饰",
+    "thirdCateId": 772,
+    "thirdCate": "香水",
+    "secondCateId": 81,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "汽车装饰",
+    "thirdCateId": 773,
+    "thirdCate": "后备箱垫",
+    "secondCateId": 81,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "汽车装饰",
+    "thirdCateId": 774,
+    "thirdCate": "脚垫",
+    "secondCateId": 81,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "汽车装饰",
+    "thirdCateId": 775,
+    "thirdCate": "车内除味剂",
+    "secondCateId": 81,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "车载电器",
+    "thirdCateId": 776,
+    "thirdCate": "电源",
+    "secondCateId": 82,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "车载电器",
+    "thirdCateId": 777,
+    "thirdCate": "行车记录仪",
+    "secondCateId": 82,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "车载电器",
+    "thirdCateId": 778,
+    "thirdCate": "车载电器配件",
+    "secondCateId": 82,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "车载电器",
+    "thirdCateId": 779,
+    "thirdCate": "车载影音",
+    "secondCateId": 82,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "车载电器",
+    "thirdCateId": 780,
+    "thirdCate": "车载吸尘器",
+    "secondCateId": 82,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "车载电器",
+    "thirdCateId": 781,
+    "thirdCate": "车载净化器",
+    "secondCateId": 82,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "车载电器",
+    "thirdCateId": 782,
+    "thirdCate": "车载蓝牙",
+    "secondCateId": 82,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "车载电器",
+    "thirdCateId": 783,
+    "thirdCate": "车载生活电器",
+    "secondCateId": 82,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "车载电器",
+    "thirdCateId": 784,
+    "thirdCate": "车载冰箱",
+    "secondCateId": 82,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "车载电器",
+    "thirdCateId": 785,
+    "thirdCate": "汽车音响",
+    "secondCateId": 82,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "车载电器",
+    "thirdCateId": 786,
+    "thirdCate": "车载净化器",
+    "secondCateId": 82,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "车载电器",
+    "thirdCateId": 787,
+    "thirdCate": "车机",
+    "secondCateId": 82,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "车载电器",
+    "thirdCateId": 788,
+    "thirdCate": "导航仪",
+    "secondCateId": 82,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "车载电器",
+    "thirdCateId": 789,
+    "thirdCate": "倒车雷达",
+    "secondCateId": 82,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "车载电器",
+    "thirdCateId": 790,
+    "thirdCate": "安全预警仪",
+    "secondCateId": 82,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 14,
+    "secondCate": "车载电器",
+    "thirdCateId": 791,
+    "thirdCate": "车载电台",
+    "secondCateId": 82,
+    "firstCate": "汽车用品"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "运动鞋包",
+    "thirdCateId": 792,
+    "thirdCate": "休闲鞋",
+    "secondCateId": 83,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "运动鞋包",
+    "thirdCateId": 793,
+    "thirdCate": "帆布鞋",
+    "secondCateId": 83,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "运动鞋包",
+    "thirdCateId": 794,
+    "thirdCate": "篮球鞋",
+    "secondCateId": 83,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "运动鞋包",
+    "thirdCateId": 795,
+    "thirdCate": "运动包",
+    "secondCateId": 83,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "运动鞋包",
+    "thirdCateId": 796,
+    "thirdCate": "专项运动鞋",
+    "secondCateId": 83,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "运动鞋包",
+    "thirdCateId": 797,
+    "thirdCate": "跑步鞋",
+    "secondCateId": 83,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "运动鞋包",
+    "thirdCateId": 798,
+    "thirdCate": "训练鞋",
+    "secondCateId": 83,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "运动鞋包",
+    "thirdCateId": 799,
+    "thirdCate": "足球鞋",
+    "secondCateId": 83,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "运动鞋包",
+    "thirdCateId": 800,
+    "thirdCate": "拖鞋",
+    "secondCateId": 83,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "运动鞋包",
+    "thirdCateId": 801,
+    "thirdCate": "板鞋",
+    "secondCateId": 83,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "运动鞋包",
+    "thirdCateId": 802,
+    "thirdCate": "乒羽网鞋",
+    "secondCateId": 83,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "运动服饰",
+    "thirdCateId": 803,
+    "thirdCate": "棉服",
+    "secondCateId": 84,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "运动服饰",
+    "thirdCateId": 804,
+    "thirdCate": "健身服",
+    "secondCateId": 84,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "运动服饰",
+    "thirdCateId": 805,
+    "thirdCate": "乒羽网服",
+    "secondCateId": 84,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "运动服饰",
+    "thirdCateId": 806,
+    "thirdCate": "运动背心",
+    "secondCateId": 84,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "运动服饰",
+    "thirdCateId": 807,
+    "thirdCate": "运动配饰",
+    "secondCateId": 84,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "运动服饰",
+    "thirdCateId": 808,
+    "thirdCate": "运动裤",
+    "secondCateId": 84,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "运动服饰",
+    "thirdCateId": 809,
+    "thirdCate": "毛衫/线衫",
+    "secondCateId": 84,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "运动服饰",
+    "thirdCateId": 810,
+    "thirdCate": "T恤",
+    "secondCateId": 84,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "运动服饰",
+    "thirdCateId": 811,
+    "thirdCate": "卫衣/套头衫",
+    "secondCateId": 84,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "运动服饰",
+    "thirdCateId": 812,
+    "thirdCate": "夹克/风衣",
+    "secondCateId": 84,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "户外鞋服",
+    "thirdCateId": 813,
+    "thirdCate": "工装鞋",
+    "secondCateId": 85,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "户外鞋服",
+    "thirdCateId": 814,
+    "thirdCate": "军迷服饰",
+    "secondCateId": 85,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "户外鞋服",
+    "thirdCateId": 815,
+    "thirdCate": "功能内衣",
+    "secondCateId": 85,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "户外鞋服",
+    "thirdCateId": 816,
+    "thirdCate": "徒步鞋",
+    "secondCateId": 85,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "户外鞋服",
+    "thirdCateId": 817,
+    "thirdCate": "羽绒服/棉服",
+    "secondCateId": 85,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "户外鞋服",
+    "thirdCateId": 818,
+    "thirdCate": "沙滩/凉拖",
+    "secondCateId": 85,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "户外鞋服",
+    "thirdCateId": 819,
+    "thirdCate": "冲锋衣裤",
+    "secondCateId": 85,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "户外鞋服",
+    "thirdCateId": 820,
+    "thirdCate": "T恤",
+    "secondCateId": 85,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "户外鞋服",
+    "thirdCateId": 821,
+    "thirdCate": "抓绒衣裤",
+    "secondCateId": 85,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "户外鞋服",
+    "thirdCateId": 822,
+    "thirdCate": "速干衣裤",
+    "secondCateId": 85,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "户外鞋服",
+    "thirdCateId": 823,
+    "thirdCate": "滑雪服",
+    "secondCateId": 85,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "户外鞋服",
+    "thirdCateId": 824,
+    "thirdCate": "登山鞋",
+    "secondCateId": 85,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "户外鞋服",
+    "thirdCateId": 825,
+    "thirdCate": "户外风衣",
+    "secondCateId": 85,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "户外鞋服",
+    "thirdCateId": 826,
+    "thirdCate": "休闲衣裤",
+    "secondCateId": 85,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "户外鞋服",
+    "thirdCateId": 827,
+    "thirdCate": "越野跑鞋",
+    "secondCateId": 85,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "户外鞋服",
+    "thirdCateId": 828,
+    "thirdCate": "户外袜",
+    "secondCateId": 85,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "户外鞋服",
+    "thirdCateId": 829,
+    "thirdCate": "溯溪鞋",
+    "secondCateId": 85,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "户外鞋服",
+    "thirdCateId": 830,
+    "thirdCate": "软壳衣裤",
+    "secondCateId": 85,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "户外鞋服",
+    "thirdCateId": 831,
+    "thirdCate": "雪地靴",
+    "secondCateId": 85,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "垂钓用品",
+    "thirdCateId": 832,
+    "thirdCate": "辅助装备",
+    "secondCateId": 86,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "垂钓用品",
+    "thirdCateId": 833,
+    "thirdCate": "钓竿",
+    "secondCateId": 86,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "垂钓用品",
+    "thirdCateId": 834,
+    "thirdCate": "浮漂",
+    "secondCateId": 86,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "垂钓用品",
+    "thirdCateId": 835,
+    "thirdCate": "渔具包",
+    "secondCateId": 86,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "垂钓用品",
+    "thirdCateId": 836,
+    "thirdCate": "钓鱼配件",
+    "secondCateId": 86,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "垂钓用品",
+    "thirdCateId": 837,
+    "thirdCate": "钓箱钓椅",
+    "secondCateId": 86,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "健身训练",
+    "thirdCateId": 838,
+    "thirdCate": "瑜伽用品",
+    "secondCateId": 87,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "健身训练",
+    "thirdCateId": 839,
+    "thirdCate": "运动护具",
+    "secondCateId": 87,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "健身训练",
+    "thirdCateId": 840,
+    "thirdCate": "动感单车",
+    "secondCateId": 87,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "健身训练",
+    "thirdCateId": 841,
+    "thirdCate": "哑铃",
+    "secondCateId": 87,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "健身训练",
+    "thirdCateId": 842,
+    "thirdCate": "仰卧板/收腹机",
+    "secondCateId": 87,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "健身训练",
+    "thirdCateId": 843,
+    "thirdCate": "综合训练器",
+    "secondCateId": 87,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "健身训练",
+    "thirdCateId": 844,
+    "thirdCate": "其他器械",
+    "secondCateId": 87,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "健身训练",
+    "thirdCateId": 845,
+    "thirdCate": "武术搏击",
+    "secondCateId": 87,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "健身训练",
+    "thirdCateId": 846,
+    "thirdCate": "椭圆机",
+    "secondCateId": 87,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "健身训练",
+    "thirdCateId": 847,
+    "thirdCate": "跑步机",
+    "secondCateId": 87,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "健身训练",
+    "thirdCateId": 848,
+    "thirdCate": "甩脂机",
+    "secondCateId": 87,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "健身训练",
+    "thirdCateId": 849,
+    "thirdCate": "踏步机",
+    "secondCateId": 87,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "体育用品",
+    "thirdCateId": 850,
+    "thirdCate": "高尔夫",
+    "secondCateId": 88,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "体育用品",
+    "thirdCateId": 851,
+    "thirdCate": "棋牌麻将",
+    "secondCateId": 88,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "体育用品",
+    "thirdCateId": 852,
+    "thirdCate": "轮滑滑板",
+    "secondCateId": 88,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "体育用品",
+    "thirdCateId": 853,
+    "thirdCate": "足球",
+    "secondCateId": 88,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "体育用品",
+    "thirdCateId": 854,
+    "thirdCate": "台球",
+    "secondCateId": 88,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "体育用品",
+    "thirdCateId": 855,
+    "thirdCate": "羽毛球",
+    "secondCateId": 88,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "体育用品",
+    "thirdCateId": 856,
+    "thirdCate": "乒乓球",
+    "secondCateId": 88,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "体育用品",
+    "thirdCateId": 857,
+    "thirdCate": "篮球",
+    "secondCateId": 88,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "体育用品",
+    "thirdCateId": 858,
+    "thirdCate": "网球",
+    "secondCateId": 88,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "体育用品",
+    "thirdCateId": 859,
+    "thirdCate": "排球",
+    "secondCateId": 88,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "骑行运动",
+    "thirdCateId": 860,
+    "thirdCate": "穿戴装备",
+    "secondCateId": 89,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "骑行运动",
+    "thirdCateId": 861,
+    "thirdCate": "骑行服",
+    "secondCateId": 89,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "骑行运动",
+    "thirdCateId": 862,
+    "thirdCate": "城市自行车",
+    "secondCateId": 89,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "骑行运动",
+    "thirdCateId": 863,
+    "thirdCate": "山地车",
+    "secondCateId": 89,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "骑行运动",
+    "thirdCateId": 864,
+    "thirdCate": "折叠车",
+    "secondCateId": 89,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "骑行运动",
+    "thirdCateId": 865,
+    "thirdCate": "电动车",
+    "secondCateId": 89,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "骑行运动",
+    "thirdCateId": 866,
+    "thirdCate": "平衡车",
+    "secondCateId": 89,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "游泳用品",
+    "thirdCateId": 867,
+    "thirdCate": "游泳配件",
+    "secondCateId": 90,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "游泳用品",
+    "thirdCateId": 868,
+    "thirdCate": "女士泳衣",
+    "secondCateId": 90,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "游泳用品",
+    "thirdCateId": 869,
+    "thirdCate": "男士泳衣",
+    "secondCateId": 90,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "游泳用品",
+    "thirdCateId": 870,
+    "thirdCate": "泳镜",
+    "secondCateId": 90,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "游泳用品",
+    "thirdCateId": 871,
+    "thirdCate": "比基尼",
+    "secondCateId": 90,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "游泳用品",
+    "thirdCateId": 872,
+    "thirdCate": "泳帽",
+    "secondCateId": 90,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "游泳用品",
+    "thirdCateId": 873,
+    "thirdCate": "游泳包防水包",
+    "secondCateId": 90,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "户外装备",
+    "thirdCateId": 874,
+    "thirdCate": "登山攀岩",
+    "secondCateId": 91,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "户外装备",
+    "thirdCateId": 875,
+    "thirdCate": "望远镜",
+    "secondCateId": 91,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "户外装备",
+    "thirdCateId": 876,
+    "thirdCate": "户外照明",
+    "secondCateId": 91,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "户外装备",
+    "thirdCateId": 877,
+    "thirdCate": "户外配饰",
+    "secondCateId": 91,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "户外装备",
+    "thirdCateId": 878,
+    "thirdCate": "救援装备",
+    "secondCateId": 91,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "户外装备",
+    "thirdCateId": 879,
+    "thirdCate": "冲浪潜水",
+    "secondCateId": 91,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "户外装备",
+    "thirdCateId": 880,
+    "thirdCate": "便携桌椅床",
+    "secondCateId": 91,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "户外装备",
+    "thirdCateId": 881,
+    "thirdCate": "旅行装备",
+    "secondCateId": 91,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "户外装备",
+    "thirdCateId": 882,
+    "thirdCate": "户外仪表",
+    "secondCateId": 91,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "户外装备",
+    "thirdCateId": 883,
+    "thirdCate": "野餐用品",
+    "secondCateId": 91,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "户外装备",
+    "thirdCateId": 884,
+    "thirdCate": "睡袋/吊床",
+    "secondCateId": 91,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "户外装备",
+    "thirdCateId": 885,
+    "thirdCate": "极限户外",
+    "secondCateId": 91,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "户外装备",
+    "thirdCateId": 886,
+    "thirdCate": "户外工具",
+    "secondCateId": 91,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "户外装备",
+    "thirdCateId": 887,
+    "thirdCate": "帐篷/垫子",
+    "secondCateId": 91,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "户外装备",
+    "thirdCateId": 888,
+    "thirdCate": "背包",
+    "secondCateId": 91,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "户外装备",
+    "thirdCateId": 889,
+    "thirdCate": "滑雪装备",
+    "secondCateId": 91,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 15,
+    "secondCate": "户外装备",
+    "thirdCateId": 890,
+    "thirdCate": "军迷用品",
+    "secondCateId": 91,
+    "firstCate": "运动健康"
+  },
+  {
+    "firstCateId": 16,
+    "secondCate": "模型玩具",
+    "thirdCateId": 891,
+    "thirdCate": "拼插模型",
+    "secondCateId": 92,
+    "firstCate": "玩具乐器"
+  },
+  {
+    "firstCateId": 16,
+    "secondCate": "模型玩具",
+    "thirdCateId": 892,
+    "thirdCate": "仿真模型",
+    "secondCateId": 92,
+    "firstCate": "玩具乐器"
+  },
+  {
+    "firstCateId": 16,
+    "secondCate": "模型玩具",
+    "thirdCateId": 893,
+    "thirdCate": "收藏爱好",
+    "secondCateId": 92,
+    "firstCate": "玩具乐器"
+  },
+  {
+    "firstCateId": 16,
+    "secondCate": "乐器",
+    "thirdCateId": 894,
+    "thirdCate": "乐器配件",
+    "secondCateId": 93,
+    "firstCate": "玩具乐器"
+  },
+  {
+    "firstCateId": 16,
+    "secondCate": "乐器",
+    "thirdCateId": 895,
+    "thirdCate": "吉他",
+    "secondCateId": 93,
+    "firstCate": "玩具乐器"
+  },
+  {
+    "firstCateId": 16,
+    "secondCate": "乐器",
+    "thirdCateId": 896,
+    "thirdCate": "民族管弦乐器",
+    "secondCateId": 93,
+    "firstCate": "玩具乐器"
+  },
+  {
+    "firstCateId": 16,
+    "secondCate": "乐器",
+    "thirdCateId": 897,
+    "thirdCate": "打击乐器",
+    "secondCateId": 93,
+    "firstCate": "玩具乐器"
+  },
+  {
+    "firstCateId": 16,
+    "secondCate": "乐器",
+    "thirdCateId": 898,
+    "thirdCate": "口琴/口风琴/竖笛",
+    "secondCateId": 93,
+    "firstCate": "玩具乐器"
+  },
+  {
+    "firstCateId": 16,
+    "secondCate": "乐器",
+    "thirdCateId": 899,
+    "thirdCate": "西洋管弦",
+    "secondCateId": 93,
+    "firstCate": "玩具乐器"
+  },
+  {
+    "firstCateId": 16,
+    "secondCate": "乐器",
+    "thirdCateId": 900,
+    "thirdCate": "电子琴",
+    "secondCateId": 93,
+    "firstCate": "玩具乐器"
+  },
+  {
+    "firstCateId": 16,
+    "secondCate": "乐器",
+    "thirdCateId": 901,
+    "thirdCate": "钢琴",
+    "secondCateId": 93,
+    "firstCate": "玩具乐器"
+  },
+  {
+    "firstCateId": 16,
+    "secondCate": "乐器",
+    "thirdCateId": 902,
+    "thirdCate": "电脑音乐",
+    "secondCateId": 93,
+    "firstCate": "玩具乐器"
+  },
+  {
+    "firstCateId": 16,
+    "secondCate": "乐器",
+    "thirdCateId": 903,
+    "thirdCate": "工艺礼品乐器",
+    "secondCateId": 93,
+    "firstCate": "玩具乐器"
+  },
+  {
+    "firstCateId": 16,
+    "secondCate": "乐器",
+    "thirdCateId": 904,
+    "thirdCate": "手风琴",
+    "secondCateId": 93,
+    "firstCate": "玩具乐器"
+  },
+  {
+    "firstCateId": 16,
+    "secondCate": "益智玩具",
+    "thirdCateId": 905,
+    "thirdCate": "早教启智",
+    "secondCateId": 94,
+    "firstCate": "玩具乐器"
+  },
+  {
+    "firstCateId": 16,
+    "secondCate": "益智玩具",
+    "thirdCateId": 906,
+    "thirdCate": "摇铃/床铃",
+    "secondCateId": 94,
+    "firstCate": "玩具乐器"
+  },
+  {
+    "firstCateId": 16,
+    "secondCate": "益智玩具",
+    "thirdCateId": 907,
+    "thirdCate": "健身架",
+    "secondCateId": 94,
+    "firstCate": "玩具乐器"
+  },
+  {
+    "firstCateId": 16,
+    "secondCate": "益智玩具",
+    "thirdCateId": 908,
+    "thirdCate": "拖拉玩具",
+    "secondCateId": 94,
+    "firstCate": "玩具乐器"
+  },
+  {
+    "firstCateId": 16,
+    "secondCate": "动漫玩具",
+    "thirdCateId": 909,
+    "thirdCate": "卡通周边",
+    "secondCateId": 95,
+    "firstCate": "玩具乐器"
+  },
+  {
+    "firstCateId": 16,
+    "secondCate": "动漫玩具",
+    "thirdCateId": 910,
+    "thirdCate": "电影周边",
+    "secondCateId": 95,
+    "firstCate": "玩具乐器"
+  },
+  {
+    "firstCateId": 16,
+    "secondCate": "动漫玩具",
+    "thirdCateId": 911,
+    "thirdCate": "网游周边",
+    "secondCateId": 95,
+    "firstCate": "玩具乐器"
+  },
+  {
+    "firstCateId": 16,
+    "secondCate": "毛绒布艺",
+    "thirdCateId": 912,
+    "thirdCate": "毛绒/布艺",
+    "secondCateId": 96,
+    "firstCate": "玩具乐器"
+  },
+  {
+    "firstCateId": 16,
+    "secondCate": "毛绒布艺",
+    "thirdCateId": 913,
+    "thirdCate": "靠垫/抱枕",
+    "secondCateId": 96,
+    "firstCate": "玩具乐器"
+  },
+  {
+    "firstCateId": 16,
+    "secondCate": "健身玩具",
+    "thirdCateId": 914,
+    "thirdCate": "户外玩具",
+    "secondCateId": 97,
+    "firstCate": "玩具乐器"
+  },
+  {
+    "firstCateId": 16,
+    "secondCate": "健身玩具",
+    "thirdCateId": 915,
+    "thirdCate": "爬行垫/毯",
+    "secondCateId": 97,
+    "firstCate": "玩具乐器"
+  },
+  {
+    "firstCateId": 16,
+    "secondCate": "健身玩具",
+    "thirdCateId": 916,
+    "thirdCate": "戏水玩具",
+    "secondCateId": 97,
+    "firstCate": "玩具乐器"
+  },
+  {
+    "firstCateId": 16,
+    "secondCate": "健身玩具",
+    "thirdCateId": 917,
+    "thirdCate": "炫舞毯",
+    "secondCateId": 97,
+    "firstCate": "玩具乐器"
+  },
+  {
+    "firstCateId": 16,
+    "secondCate": "创意减压",
+    "thirdCateId": 918,
+    "thirdCate": "创意玩具",
+    "secondCateId": 98,
+    "firstCate": "玩具乐器"
+  },
+  {
+    "firstCateId": 16,
+    "secondCate": "创意减压",
+    "thirdCateId": 919,
+    "thirdCate": "减压玩具",
+    "secondCateId": 98,
+    "firstCate": "玩具乐器"
+  },
+  {
+    "firstCateId": 16,
+    "secondCate": "遥控/电动",
+    "thirdCateId": 920,
+    "thirdCate": "遥控车",
+    "secondCateId": 99,
+    "firstCate": "玩具乐器"
+  },
+  {
+    "firstCateId": 16,
+    "secondCate": "遥控/电动",
+    "thirdCateId": 921,
+    "thirdCate": "遥控飞机",
+    "secondCateId": 99,
+    "firstCate": "玩具乐器"
+  },
+  {
+    "firstCateId": 16,
+    "secondCate": "遥控/电动",
+    "thirdCateId": 922,
+    "thirdCate": "机器人",
+    "secondCateId": 99,
+    "firstCate": "玩具乐器"
+  },
+  {
+    "firstCateId": 16,
+    "secondCate": "遥控/电动",
+    "thirdCateId": 923,
+    "thirdCate": "轨道/助力",
+    "secondCateId": 99,
+    "firstCate": "玩具乐器"
+  },
+  {
+    "firstCateId": 16,
+    "secondCate": "遥控/电动",
+    "thirdCateId": 924,
+    "thirdCate": "遥控船",
+    "secondCateId": 99,
+    "firstCate": "玩具乐器"
+  },
+  {
+    "firstCateId": 16,
+    "secondCate": "积木拼插",
+    "thirdCateId": 925,
+    "thirdCate": "积木",
+    "secondCateId": 100,
+    "firstCate": "玩具乐器"
+  },
+  {
+    "firstCateId": 16,
+    "secondCate": "积木拼插",
+    "thirdCateId": 926,
+    "thirdCate": "立体拼插",
+    "secondCateId": 100,
+    "firstCate": "玩具乐器"
+  },
+  {
+    "firstCateId": 16,
+    "secondCate": "积木拼插",
+    "thirdCateId": 927,
+    "thirdCate": "拼图",
+    "secondCateId": 100,
+    "firstCate": "玩具乐器"
+  },
+  {
+    "firstCateId": 16,
+    "secondCate": "积木拼插",
+    "thirdCateId": 928,
+    "thirdCate": "磁力片/棒",
+    "secondCateId": 100,
+    "firstCate": "玩具乐器"
+  },
+  {
+    "firstCateId": 16,
+    "secondCate": "DIY玩具",
+    "thirdCateId": 929,
+    "thirdCate": "情景玩具",
+    "secondCateId": 101,
+    "firstCate": "玩具乐器"
+  },
+  {
+    "firstCateId": 16,
+    "secondCate": "DIY玩具",
+    "thirdCateId": 930,
+    "thirdCate": "绘画工具",
+    "secondCateId": 101,
+    "firstCate": "玩具乐器"
+  },
+  {
+    "firstCateId": 16,
+    "secondCate": "DIY玩具",
+    "thirdCateId": 931,
+    "thirdCate": "手工彩泥",
+    "secondCateId": 101,
+    "firstCate": "玩具乐器"
+  },
+  {
+    "firstCateId": 16,
+    "secondCate": "娃娃玩具",
+    "thirdCateId": 932,
+    "thirdCate": "芭比娃娃",
+    "secondCateId": 102,
+    "firstCate": "玩具乐器"
+  },
+  {
+    "firstCateId": 16,
+    "secondCate": "娃娃玩具",
+    "thirdCateId": 933,
+    "thirdCate": "卡通娃娃",
+    "secondCateId": 102,
+    "firstCate": "玩具乐器"
+  },
+  {
+    "firstCateId": 16,
+    "secondCate": "娃娃玩具",
+    "thirdCateId": 934,
+    "thirdCate": "智能娃娃",
+    "secondCateId": 102,
+    "firstCate": "玩具乐器"
+  },
+  {
+    "firstCateId": 17,
+    "secondCate": "海鲜水产",
+    "thirdCateId": 935,
+    "thirdCate": "蟹类",
+    "secondCateId": 103,
+    "firstCate": "生鲜"
+  },
+  {
+    "firstCateId": 17,
+    "secondCate": "海鲜水产",
+    "thirdCateId": 936,
+    "thirdCate": "鱼类",
+    "secondCateId": 103,
+    "firstCate": "生鲜"
+  },
+  {
+    "firstCateId": 17,
+    "secondCate": "海鲜水产",
+    "thirdCateId": 937,
+    "thirdCate": "虾类",
+    "secondCateId": 103,
+    "firstCate": "生鲜"
+  },
+  {
+    "firstCateId": 17,
+    "secondCate": "海鲜水产",
+    "thirdCateId": 938,
+    "thirdCate": "海参",
+    "secondCateId": 103,
+    "firstCate": "生鲜"
+  },
+  {
+    "firstCateId": 17,
+    "secondCate": "海鲜水产",
+    "thirdCateId": 939,
+    "thirdCate": "贝类",
+    "secondCateId": 103,
+    "firstCate": "生鲜"
+  },
+  {
+    "firstCateId": 17,
+    "secondCate": "海鲜水产",
+    "thirdCateId": 940,
+    "thirdCate": "海产干货",
+    "secondCateId": 103,
+    "firstCate": "生鲜"
+  },
+  {
+    "firstCateId": 17,
+    "secondCate": "海鲜水产",
+    "thirdCateId": 941,
+    "thirdCate": "其他水产",
+    "secondCateId": 103,
+    "firstCate": "生鲜"
+  },
+  {
+    "firstCateId": 17,
+    "secondCate": "水果",
+    "thirdCateId": 942,
+    "thirdCate": "更多水果",
+    "secondCateId": 104,
+    "firstCate": "生鲜"
+  },
+  {
+    "firstCateId": 17,
+    "secondCate": "水果",
+    "thirdCateId": 943,
+    "thirdCate": "奇异果/猕猴桃",
+    "secondCateId": 104,
+    "firstCate": "生鲜"
+  },
+  {
+    "firstCateId": 17,
+    "secondCate": "水果",
+    "thirdCateId": 944,
+    "thirdCate": "苹果",
+    "secondCateId": 104,
+    "firstCate": "生鲜"
+  },
+  {
+    "firstCateId": 17,
+    "secondCate": "水果",
+    "thirdCateId": 945,
+    "thirdCate": "桃/李/杏",
+    "secondCateId": 104,
+    "firstCate": "生鲜"
+  },
+  {
+    "firstCateId": 17,
+    "secondCate": "水果",
+    "thirdCateId": 946,
+    "thirdCate": "芒果",
+    "secondCateId": 104,
+    "firstCate": "生鲜"
+  },
+  {
+    "firstCateId": 17,
+    "secondCate": "水果",
+    "thirdCateId": 947,
+    "thirdCate": "柠檬",
+    "secondCateId": 104,
+    "firstCate": "生鲜"
+  },
+  {
+    "firstCateId": 17,
+    "secondCate": "水果",
+    "thirdCateId": 948,
+    "thirdCate": "梨",
+    "secondCateId": 104,
+    "firstCate": "生鲜"
+  },
+  {
+    "firstCateId": 17,
+    "secondCate": "水果",
+    "thirdCateId": 949,
+    "thirdCate": "火龙果",
+    "secondCateId": 104,
+    "firstCate": "生鲜"
+  },
+  {
+    "firstCateId": 17,
+    "secondCate": "水果",
+    "thirdCateId": 950,
+    "thirdCate": "柚子",
+    "secondCateId": 104,
+    "firstCate": "生鲜"
+  },
+  {
+    "firstCateId": 17,
+    "secondCate": "水果",
+    "thirdCateId": 951,
+    "thirdCate": "葡萄/提子",
+    "secondCateId": 104,
+    "firstCate": "生鲜"
+  },
+  {
+    "firstCateId": 17,
+    "secondCate": "水果",
+    "thirdCateId": 952,
+    "thirdCate": "车厘子/樱桃",
+    "secondCateId": 104,
+    "firstCate": "生鲜"
+  },
+  {
+    "firstCateId": 17,
+    "secondCate": "水果",
+    "thirdCateId": 953,
+    "thirdCate": "牛油果",
+    "secondCateId": 104,
+    "firstCate": "生鲜"
+  },
+  {
+    "firstCateId": 17,
+    "secondCate": "水果",
+    "thirdCateId": 954,
+    "thirdCate": "橙子",
+    "secondCateId": 104,
+    "firstCate": "生鲜"
+  },
+  {
+    "firstCateId": 17,
+    "secondCate": "水果",
+    "thirdCateId": 955,
+    "thirdCate": "桔/橘",
+    "secondCateId": 104,
+    "firstCate": "生鲜"
+  },
+  {
+    "firstCateId": 17,
+    "secondCate": "水果",
+    "thirdCateId": 956,
+    "thirdCate": "菠萝/凤梨",
+    "secondCateId": 104,
+    "firstCate": "生鲜"
+  },
+  {
+    "firstCateId": 17,
+    "secondCate": "水果",
+    "thirdCateId": 957,
+    "thirdCate": "香蕉",
+    "secondCateId": 104,
+    "firstCate": "生鲜"
+  },
+  {
+    "firstCateId": 17,
+    "secondCate": "水果",
+    "thirdCateId": 958,
+    "thirdCate": "蓝莓",
+    "secondCateId": 104,
+    "firstCate": "生鲜"
+  },
+  {
+    "firstCateId": 17,
+    "secondCate": "禽肉蛋品",
+    "thirdCateId": 959,
+    "thirdCate": "蛋类",
+    "secondCateId": 105,
+    "firstCate": "生鲜"
+  },
+  {
+    "firstCateId": 18,
+    "secondCate": "全新整车",
+    "thirdCateId": 960,
+    "thirdCate": "紧凑型车",
+    "secondCateId": 106,
+    "firstCate": "整车"
+  },
+  {
+    "firstCateId": 18,
+    "secondCate": "全新整车",
+    "thirdCateId": 961,
+    "thirdCate": "微型车",
+    "secondCateId": 106,
+    "firstCate": "整车"
+  }
+]
