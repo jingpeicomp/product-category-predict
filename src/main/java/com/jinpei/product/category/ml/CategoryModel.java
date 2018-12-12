@@ -1,6 +1,6 @@
 package com.jinpei.product.category.ml;
 
-import com.jinpei.product.category.common.CategoryVo;
+import com.jinpei.product.category.common.ProductCategory;
 import org.apache.commons.collections.CollectionUtils;
 import org.apache.spark.sql.Dataset;
 import org.apache.spark.sql.Row;
@@ -31,7 +31,7 @@ public class CategoryModel implements Serializable {
      * @param productNames 商品名称列表
      * @return 商品类目
      */
-    public List<CategoryVo> predict(List<String> productNames) {
+    public List<ProductCategory> predict(List<String> productNames) {
         if (CollectionUtils.isEmpty(productNames)) {
             return Collections.emptyList();
         }
@@ -43,13 +43,21 @@ public class CategoryModel implements Serializable {
                 .map(row -> row.getDouble(0))
                 .collect();
 
-        List<CategoryVo> voList = new ArrayList<>();
+        List<ProductCategory> voList = new ArrayList<>();
         for (int i = 0, length = productNames.size(); i < length; i++) {
             String productName = productNames.get(i);
             double categoryId = categoryIdList.get(i);
-            voList.add(new CategoryVo(productName, categoryId));
+            voList.add(new ProductCategory(productName, categoryId));
         }
 
         return voList;
+    }
+
+    /**
+     * 从本地加载加载Model
+     */
+    public void loadModel() {
+        featureExtractor.loadModel();
+        classification.loadModel();
     }
 }

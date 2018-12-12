@@ -1,6 +1,5 @@
-package com.jinpei.product.category.tools;
+package com.jinpei.product.category;
 
-import com.jinpei.product.category.ml.NlpTokenizer;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.commons.lang3.math.NumberUtils;
 
@@ -18,22 +17,19 @@ import java.util.Objects;
  */
 public class TrainDataTools {
     public static void main(String[] args) throws IOException {
-        NlpTokenizer tokenizer = new NlpTokenizer();
-        Path path = Paths.get("/Users/liuzhaoming/project/python/pure/user_profile/data/bayes/train.data");
-        FileWriter fw = new FileWriter("/Users/liuzhaoming/project/python/pure/user_profile/data/bayes/train.data.merge");
+        Path path = Paths.get("/Users/liuzhaoming/project/java/mine-github/product-category-predict/data/train.data.origin");
+        FileWriter fw = new FileWriter("/Users/liuzhaoming/project/java/mine-github/product-category-predict/data/train.data");
         BufferedWriter bw = new BufferedWriter(fw);
         Files.lines(path)
                 .map(rowString -> {
                     String[] tempStrArray = rowString.split(" ,, ");
-                    if (tempStrArray.length != 2) {
+                    if (tempStrArray.length != 3) {
                         System.out.println("**************** " + rowString);
                         return null;
                     }
                     double label = NumberUtils.toDouble(StringUtils.strip(tempStrArray[0]));
                     String originText = StringUtils.strip(tempStrArray[1]);
-//                    List<String> terms = tokenizer.segment(originText);
-                    String segmentText = String.join(" ", "");
-                    return String.join(" ,, ", new String[]{String.valueOf(label), originText, segmentText});
+                    return String.join(" |&| ", new String[]{String.valueOf(label), originText, tempStrArray[2]});
                 })
                 .filter(Objects::nonNull)
                 .forEach(line -> {

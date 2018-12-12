@@ -1,5 +1,6 @@
 package com.jinpei.product.category.ml;
 
+import com.jinpei.product.category.common.CategoryUtils;
 import com.jinpei.product.category.config.AppConfigProperties;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.lang3.StringUtils;
@@ -11,6 +12,7 @@ import org.apache.spark.sql.Row;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
+import javax.annotation.PostConstruct;
 import java.io.Serializable;
 
 /**
@@ -22,11 +24,12 @@ import java.io.Serializable;
 public class BayesClassification implements Serializable {
 
     @Autowired
-    private AppConfigProperties configProperties;
+    private AppConfigProperties appConfigProperties;
 
     private NaiveBayesModel model;
 
-    public BayesClassification() {
+    @PostConstruct
+    public void init() {
         loadModel();
     }
 
@@ -34,11 +37,13 @@ public class BayesClassification implements Serializable {
      * 从本地加载训练好的贝叶斯模型
      */
     public synchronized void loadModel() {
-        if (StringUtils.isNotBlank(configProperties.getBayesModelFile())) {
+        if (StringUtils.isNotBlank(appConfigProperties.getBayesModelFile())
+                && CategoryUtils.isFileExist(appConfigProperties.getBayesModelFile())) {
             try {
-                model = NaiveBayesModel.load(configProperties.getBayesModelFile());
+                model = NaiveBayesModel.load(appConfigProperties.getBayesModelFile());
+                log.info("Successfully loading bayes model from {}", appConfigProperties.getBayesModelFile());
             } catch (Exception e) {
-                log.error("Cannot load bayes model from {}", configProperties.getBayesModelFile(), e);
+                log.error("Cannot load bayes model from {}", appConfigProperties.getBayesModelFile(), e);
             }
         }
     }

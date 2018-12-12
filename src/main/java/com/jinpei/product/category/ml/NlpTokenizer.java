@@ -3,10 +3,12 @@ package com.jinpei.product.category.ml;
 import com.huaban.analysis.jieba.JiebaSegmenter;
 import com.huaban.analysis.jieba.SegToken;
 import com.huaban.analysis.jieba.WordDictionary;
+import com.jinpei.product.category.common.CategoryUtils;
+import com.jinpei.product.category.config.AppConfigProperties;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.collections.CollectionUtils;
 import org.apache.commons.lang3.StringUtils;
-import org.springframework.beans.factory.annotation.Value;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
 import javax.annotation.PostConstruct;
@@ -28,17 +30,18 @@ public class NlpTokenizer {
 
     private JiebaSegmenter segmenter;
 
-    @Value("${category.dict.path}")
-    private String dictPath;
+    @Autowired
+    private AppConfigProperties configProperties;
 
     /**
      * 分词器初始化，加载用户词典
      */
     @PostConstruct
     public void init() {
-        if (StringUtils.isNotBlank(dictPath)) {
+        if (StringUtils.isNotBlank(configProperties.getDictFile())
+                && CategoryUtils.isFileExist(configProperties.getDictFile())) {
             log.info("Start loading product dictionary ...");
-            WordDictionary.getInstance().loadUserDict(Paths.get(dictPath));
+            WordDictionary.getInstance().loadUserDict(Paths.get(configProperties.getDictFile()));
             log.info("Finish loading product dictionary");
         }
 
@@ -56,7 +59,7 @@ public class NlpTokenizer {
             return "";
         }
 
-        List<SegToken> tokens = segmenter.process(sentence, JiebaSegmenter.SegMode.INDEX);
+        List<SegToken> tokens = segmenter.process(sentence, JiebaSegmenter.SegMode.SEARCH);
         return tokens.stream()
                 .map(segToken -> segToken.word)
                 .filter(this::isValidToken)

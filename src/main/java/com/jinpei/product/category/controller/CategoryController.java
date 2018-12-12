@@ -1,10 +1,11 @@
 package com.jinpei.product.category.controller;
 
 import com.fasterxml.jackson.core.type.TypeReference;
-import com.fasterxml.jackson.databind.DeserializationFeature;
-import com.fasterxml.jackson.databind.ObjectMapper;
-import com.jinpei.product.category.common.CategoryVo;
+import com.jinpei.product.category.common.CategoryUtils;
+import com.jinpei.product.category.common.ProductCategory;
+import com.jinpei.product.category.common.StandardCategory;
 import com.jinpei.product.category.ml.CategoryModel;
+import com.jinpei.product.category.ml.NlpTokenizer;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.collections.CollectionUtils;
 import org.apache.commons.io.IOUtils;
@@ -32,16 +33,14 @@ public class CategoryController {
     @Autowired
     private CategoryModel model;
 
-    private static final TypeReference<List<CategoryVo>> categoryVoTypeReference = new TypeReference<List<CategoryVo>>() {
+    @Autowired
+    private NlpTokenizer nlpTokenizer;
+
+    private static final TypeReference<List<StandardCategory>> categoryVoTypeReference = new TypeReference<List<StandardCategory>>() {
     };
 
-    private static final ObjectMapper OBJECT_MAPPER = new ObjectMapper();
+    private Map<Integer, StandardCategory> standardCategoryVoMap = new HashMap<>();
 
-    private Map<Integer, CategoryVo> standardCategoryVoMap = new HashMap<>();
-
-    static {
-        OBJECT_MAPPER.configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false);
-    }
 
     /**
      * 根据商品名称预测类目
@@ -50,18 +49,30 @@ public class CategoryController {
      * @return 类目列表
      */
     @RequestMapping(value = "/predict", method = {RequestMethod.GET, RequestMethod.POST})
-    public List<CategoryVo> predict(@RequestParam List<String> names, @RequestBody Map params) {
+    public List<ProductCategory> predict(@RequestParam(required = false) List<String> names,
+                                         @RequestBody(required = false) Map params) {
         List<String> titles = CollectionUtils.isNotEmpty(names) ? names : (List) params.get("names");
         long startTime = System.currentTimeMillis();
-        List<CategoryVo> categoryVoList = model.predict(titles);
+        List<ProductCategory> categoryVoList = model.predict(titles);
         log.info("Predict category spends {}", (System.currentTimeMillis() - startTime));
 
         return categoryVoList.stream()
                 .peek(categoryVo -> {
-                    CategoryVo standardVo = standardCategoryVoMap.get(categoryVo.getThirdCateId());
+                    StandardCategory standardVo = standardCategoryVoMap.get(categoryVo.getThirdCateId());
                     categoryVo.copyCategory(standardVo);
                 })
                 .collect(Collectors.toList());
+    }
+
+    /**
+     * 对商品名称进行分词
+     *
+     * @param name 商品名称
+     * @return 分词结果，不同词条之间用" "分隔
+     */
+    @RequestMapping(value = "/segment", method = RequestMethod.GET)
+    public String segment(@RequestParam String name) {
+        return nlpTokenizer.segment(name);
     }
 
 
@@ -71,7 +82,7 @@ public class CategoryController {
      * @return 标准类目列表
      */
     @RequestMapping(method = RequestMethod.GET)
-    public Collection<CategoryVo> query() {
+    public Collection<StandardCategory> query() {
         return standardCategoryVoMap.values();
     }
 
@@ -82,7 +93,7 @@ public class CategoryController {
     public void loadCategoryMap() {
         try (InputStream is = getClass().getResourceAsStream("/category.json")) {
             String jsonString = IOUtils.toString(is);
-            List<CategoryVo> voList = OBJECT_MAPPER.readValue(jsonString, categoryVoTypeReference);
+            List<StandardCategory> voList = CategoryUtils.fromJson(jsonString, categoryVoTypeReference);
             if (CollectionUtils.isEmpty(voList)) {
                 log.error("Cannot load category json file");
                 return;

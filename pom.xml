@@ -11,6 +11,8 @@
     <groupId>com.jinpei</groupId>
     <artifactId>product-category-predict</artifactId>
     <version>1.0.0-SNAPSHOT</version>
+    <description>Predict product category by name with bayes model</description>
+
     <properties>
         <spark.version>2.2.1</spark.version>
         <scala.version>2.11.8</scala.version>
@@ -20,7 +22,9 @@
         <slf4j.version>1.7.16</slf4j.version>
         <logback.version>1.1.8</logback.version>
         <jieba.version>1.0.2</jieba.version>
+        <start-class>com.jinpei.product.category.CategoryPredictApp</start-class>
     </properties>
+
     <dependencies>
         <dependency>
             <groupId>org.projectlombok</groupId>
@@ -71,6 +75,27 @@
 
     <build>
         <plugins>
+            <plugin>
+                <artifactId>maven-assembly-plugin</artifactId>
+                <configuration>
+                    <descriptors>
+                        <descriptor>src/main/resources/jar-with-dependencies-assembly.xml</descriptor>
+                    </descriptors>
+                </configuration>
+                <executions>
+                    <execution>
+                        <id>make-assembly</id>
+                        <phase>package</phase>
+                        <goals>
+                            <goal>single</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-shade-plugin</artifactId>
+            </plugin>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>

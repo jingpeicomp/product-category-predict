@@ -41,3 +41,6 @@ hs_err_pid*
 logs/
 tmp/
 .DS_Store
+spark-warehouse/
+data/
+model/

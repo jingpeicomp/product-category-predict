@@ -1,7 +1,9 @@
 package com.jinpei.product.category.ml;
 
+import com.jinpei.product.category.common.CategoryUtils;
 import com.jinpei.product.category.config.AppConfigProperties;
 import lombok.extern.slf4j.Slf4j;
+import org.apache.commons.io.FileUtils;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.commons.lang3.math.NumberUtils;
 import org.apache.spark.api.java.JavaRDD;
@@ -14,14 +16,16 @@ import org.apache.spark.sql.Dataset;
 import org.apache.spark.sql.Row;
 import org.apache.spark.sql.RowFactory;
 import org.apache.spark.sql.SQLContext;
-import org.apache.spark.sql.types.*;
+import org.apache.spark.sql.types.DataTypes;
+import org.apache.spark.sql.types.Metadata;
+import org.apache.spark.sql.types.StructField;
+import org.apache.spark.sql.types.StructType;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
+import java.io.File;
 import java.io.IOException;
 import java.io.Serializable;
-import java.nio.file.Files;
-import java.nio.file.Paths;
 import java.util.Objects;
 
 /**
@@ -39,7 +43,7 @@ public class Trainer implements Serializable {
     private SQLContext sqlContext;
 
     @Autowired
-    private AppConfigProperties configProperties;
+    private AppConfigProperties appConfigProperties;
 
     private Tokenizer tokenizer;
 
@@ -55,32 +59,10 @@ public class Trainer implements Serializable {
      * @throws IOException IOException
      */
     public void trainWithTfIdf() throws IOException {
-        log.info("Start training model .......");
+        log.info("Start training model with tf-idf .......");
+        clearModel();
 
-        JavaRDD<Row> textRowRDD = sparkContext.textFile(configProperties.getTrainData())
-                .repartition(140)
-                .map(rowString -> {
-                    String[] tempStrArray = rowString.split("||");
-                    if (tempStrArray.length != 2) {
-                        log.info("Invalid line {}", rowString);
-                        return null;
-                    }
-
-                    double label = NumberUtils.toDouble(StringUtils.strip(tempStrArray[0]));
-                    String originText = StringUtils.strip(tempStrArray[1]);
-                    String segmentText = StringUtils.strip(tempStrArray[2]);
-                    return new Object[]{label, originText, segmentText};
-                })
-                .filter(Objects::nonNull)
-                .map(objects -> RowFactory.create(objects[0], objects[1], objects[2]));
-
-        Metadata labelMeta = Metadata.fromJson("{\"ml_attr\":{\"num_vals\":962,\"type\":\"nominal\"}}");
-        StructType schema = new StructType(new StructField[]{
-                new StructField("label", DataTypes.DoubleType, false, labelMeta),
-                new StructField("origin", DataTypes.StringType, false, Metadata.empty()),
-                new StructField("text", DataTypes.StringType, false, Metadata.empty())
-        });
-        Dataset<Row> sentenceData = sqlContext.createDataFrame(textRowRDD, schema);
+        Dataset<Row> sentenceData = loadSentenceDataset();
         //划分训练数据和测试数据
         Dataset<Row>[] splits = sentenceData.randomSplit(new double[]{0.9, 0.1});
         Dataset<Row> trainData = processFeatureByTfIdf(sentenceData);
@@ -97,32 +79,10 @@ public class Trainer implements Serializable {
      * @throws IOException IOException
      */
     public void trainWithWord2Vec() throws IOException {
-        log.info("Start training model .......");
+        log.info("Start training model with word2vec .......");
+        clearModel();
 
-        JavaRDD<Row> textRowRDD = sparkContext.textFile(configProperties.getTrainData())
-                .repartition(140)
-                .map(rowString -> {
-                    String[] tempStrArray = rowString.split(" ,, ");
-                    if (tempStrArray.length != 3) {
-                        log.info("Invalid line " + rowString);
-                        return null;
-                    }
-
-                    double label = NumberUtils.toDouble(StringUtils.strip(tempStrArray[0]));
-                    String originText = StringUtils.strip(tempStrArray[1]);
-                    String[] segmentText = tempStrArray[2].split(" ");
-                    return new Object[]{label, originText, segmentText};
-                })
-                .filter(Objects::nonNull)
-                .map(objects -> RowFactory.create(objects[0], objects[1], objects[2]));
-        Metadata labelMeta = Metadata.fromJson("{\"ml_attr\":{\"num_vals\":962,\"type\":\"nominal\"}}");
-        StructType schema = new StructType(new StructField[]{
-                new StructField("label", DataTypes.DoubleType, false, labelMeta),
-                new StructField("origin", DataTypes.StringType, false, Metadata.empty()),
-                new StructField("text", new ArrayType(DataTypes.StringType, true), false, Metadata.empty())
-        });
-
-        Dataset<Row> sentenceData = sqlContext.createDataFrame(textRowRDD, schema);
+        Dataset<Row> sentenceData = loadSentenceDataset();
         //划分训练数据和测试数据
         Dataset<Row>[] splits = sentenceData.randomSplit(new double[]{0.1, 0.9});
         Dataset<Row> trainData = processFeatureByWord2Vec(splits[0]);
@@ -131,6 +91,48 @@ public class Trainer implements Serializable {
         evaluateBasicByWord2Vec(splits[1], model);
         trainData.unpersist();
         log.info("Finish train model .......");
+    }
+
+    /**
+     * 判断模型是否存在
+     *
+     * @return boolean存在返回true， 反之false
+     */
+    public boolean isModelExist() {
+        return CategoryUtils.isFileExist(appConfigProperties.getBayesModelFile());
+    }
+
+    /**
+     * 本地加载训练数据，并进行分词
+     *
+     * @return 分类标签、原始文本、分词文本数据集合
+     */
+    private Dataset<Row> loadSentenceDataset() {
+        log.info("Start loading sentence dataset......");
+        JavaRDD<Row> textRowRDD = sparkContext.textFile(appConfigProperties.getTrainDataFile())
+                .repartition(140)
+                .map(line -> {
+                    String[] cateAndName = line.split(" \\|&\\| ");
+                    if (cateAndName.length != 3) {
+                        log.info("******** Invalid line {}", line);
+                        return null;
+                    }
+
+                    double label = NumberUtils.toDouble(StringUtils.strip(cateAndName[0]));
+                    String originText = StringUtils.strip(cateAndName[1]);
+                    String segmentText = StringUtils.strip(cateAndName[2]);
+                    return new Object[]{label, originText, segmentText};
+                })
+                .filter(Objects::nonNull)
+                .map(objects -> RowFactory.create(objects[0], objects[1], objects[2]));
+
+        Metadata labelMeta = Metadata.fromJson("{\"ml_attr\":{\"num_vals\":962,\"type\":\"nominal\"}}");
+        StructType schema = new StructType(new StructField[]{
+                new StructField("label", DataTypes.DoubleType, false, labelMeta),
+                new StructField("origin", DataTypes.StringType, false, Metadata.empty()),
+                new StructField("text", DataTypes.StringType, false, Metadata.empty())
+        });
+        return sqlContext.createDataFrame(textRowRDD, schema);
     }
 
     /**
@@ -145,7 +147,7 @@ public class Trainer implements Serializable {
         tokenizer = new Tokenizer().setInputCol("text").setOutputCol("words");
         Dataset<Row> wordsData = tokenizer.transform(sentenceData);
 
-        int numFeatures = configProperties.getNumFeatures();
+        int numFeatures = appConfigProperties.getNumFeatures();
         hashingTF = new HashingTF()
                 .setInputCol("words")
                 .setOutputCol("rawFeatures")
@@ -154,7 +156,7 @@ public class Trainer implements Serializable {
 
         IDF idf = new IDF().setInputCol("rawFeatures").setOutputCol("features");
         idfModel = idf.fit(featurizedData);
-        idfModel.save(configProperties.getIdfModelFile());
+        idfModel.save(appConfigProperties.getIdfModelFile());
         Dataset<Row> rescaledData = idfModel.transform(featurizedData);
         long count = rescaledData.cache().count();
         log.info("Extract feature by tf-idf spends {} ms and train data count is {}",
@@ -174,11 +176,11 @@ public class Trainer implements Serializable {
         Word2Vec word2Vec = new Word2Vec()
                 .setInputCol("text")
                 .setOutputCol("features")
-                .setVectorSize(configProperties.getNumFeatures())
+                .setVectorSize(appConfigProperties.getNumFeatures())
                 .setMinCount(10);
 
         wvModel = word2Vec.fit(sentenceData);
-        wvModel.save(configProperties.getIdfModelFile());
+        wvModel.save(appConfigProperties.getIdfModelFile());
         Dataset<Row> rescaledData = wvModel.transform(sentenceData);
         long count = rescaledData.cache().count();
         log.info("Extract feature by word2Vector spends {} ms and train data count is {}",
@@ -197,7 +199,7 @@ public class Trainer implements Serializable {
         long startTime = System.currentTimeMillis();
         NaiveBayes nb = new NaiveBayes();
         NaiveBayesModel model = nb.fit(trainData);
-        model.save(configProperties.getBayesModelFile());
+        model.save(appConfigProperties.getBayesModelFile());
 //        model.transform(trainData.limit(1)).count();
         log.info("Bayes train spends {}", (System.currentTimeMillis() - startTime));
         return model;
@@ -245,7 +247,7 @@ public class Trainer implements Serializable {
                 .setPredictionCol("prediction")
                 .setMetricName("accuracy");
         double accuracy = evaluator.evaluate(predictions);
-        log.info("Test set accuracy = {}   , and spends {}", accuracy, (System.currentTimeMillis() - startTime));
+        log.info("Test set accuracy = {} , and spends {} ms", accuracy, (System.currentTimeMillis() - startTime));
 
         return accuracy;
     }
@@ -269,8 +271,21 @@ public class Trainer implements Serializable {
                 .setPredictionCol("prediction")
                 .setMetricName("accuracy");
         double accuracy = evaluator.evaluate(predictions);
-        log.info("Test set accuracy = {}   , and spends {}", accuracy, (System.currentTimeMillis() - startTime));
+        log.info("Test set accuracy = {} , and spends {} ms", accuracy, (System.currentTimeMillis() - startTime));
 
         return accuracy;
+    }
+
+    /**
+     * 删除本地训练好的模型
+     */
+    private void clearModel() {
+        try {
+            FileUtils.deleteDirectory(new File(appConfigProperties.getIdfModelFile()));
+            FileUtils.deleteDirectory(new File(appConfigProperties.getBayesModelFile()));
+        } catch (IOException e) {
+            log.error("Cannot delete model file {} , {}", appConfigProperties.getIdfModelFile(),
+                    appConfigProperties.getBayesModelFile());
+        }
     }
 }

@@ -1,5 +1,6 @@
 package com.jinpei.product.category.ml;
 
+import com.jinpei.product.category.common.CategoryUtils;
 import com.jinpei.product.category.config.AppConfigProperties;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.lang3.StringUtils;
@@ -19,6 +20,7 @@ import org.apache.spark.sql.types.StructType;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
+import javax.annotation.PostConstruct;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -31,7 +33,7 @@ import java.util.List;
 public class FeatureExtractor {
 
     @Autowired
-    private AppConfigProperties configProperties;
+    private AppConfigProperties appConfigProperties;
 
     @Autowired
     private JavaSparkContext sparkContext;
@@ -48,14 +50,15 @@ public class FeatureExtractor {
 
     private IDFModel idfModel;
 
-    public FeatureExtractor() {
+    @PostConstruct
+    public void init() {
         tokenizer = new Tokenizer()
                 .setInputCol("text")
                 .setOutputCol("words");
         hashingTF = new HashingTF()
                 .setInputCol("words")
                 .setOutputCol("rawFeatures")
-                .setNumFeatures(configProperties.getNumFeatures());
+                .setNumFeatures(appConfigProperties.getNumFeatures());
         loadModel();
     }
 
@@ -63,11 +66,13 @@ public class FeatureExtractor {
      * 从本地加载训练好的tf-idf模型
      */
     public synchronized void loadModel() {
-        if (StringUtils.isNotBlank(configProperties.getIdfModelFile())) {
+        if (StringUtils.isNotBlank(appConfigProperties.getIdfModelFile())
+                && CategoryUtils.isFileExist(appConfigProperties.getIdfModelFile())) {
             try {
-                idfModel = IDFModel.load(configProperties.getIdfModelFile());
+                idfModel = IDFModel.load(appConfigProperties.getIdfModelFile());
+                log.info("Successfully loading tf-idf model from {}", appConfigProperties.getIdfModelFile());
             } catch (Exception e) {
-                log.error("Cannot load tf-idf model from {}", configProperties.getIdfModelFile(), e);
+                log.error("Cannot load tf-idf model from {}", appConfigProperties.getIdfModelFile(), e);
             }
         }
     }
