@@ -98,7 +98,7 @@ category.dataPath    | {predict_project_home}/data         | 数据文件目录�
 category.modelPath    | {predict_project_home}/model         | 机器学习模型文件目录路径
 category.spark.masterUrl     | 如果是Spark单Standalone安装方式的话，默认地址是spark://localhost:7077    | spark集群master url
 category.spark.dependenceJar     | {predict_project_home}/target/product-category-predict-1.0.0-SNAPSHOT-jar-with-dependencies.jar    | Spark App 依赖的jar文件
-category.spark.properties.****     | 无    | 以category.spark.properties.开头的属性都是Spark配置参数，最终都会设置到Spark App上。不同Spark部署方式对应的属性不同，详情见[Spark配置参数说明](https://spark.apache.org/docs/2.2.1/configuration.html)。配置文件是针对Standalone部署方式的参数，Spark最重要的参数是CPU和内存资源的设定。
+category.spark.properties.****     | 无    | 以category.spark.properties.开头的属性都是Spark配置参数，最终都会设置到Spark App上。不同Spark部署方式对应的属性不同，详情见[Spark配置参数说明](https://spark.apache.org/docs/2.2.1/configuration.html)。[现有的配置文件](src/main/java/resources/application.properties)是针对Standalone部署方式的参数。Spark最重要的配置参数是CPU和内存资源的设定。
 
 ### 4. 通过maven打包
 
@@ -109,11 +109,11 @@ category.spark.properties.****     | 无    | 以category.spark.properties.开�
 
 项目使用了jar-with-dependencies和Spring Boot打包插件，最后在目录 {predict_project_home}/target 生成三个jar文件：
 
-1. original-product-category-predict-1.0.0-SNAPSHOT.jar是项目源码jar；
+* original-product-category-predict-1.0.0-SNAPSHOT.jar是项目源码jar；
 
-2. product-category-predict-1.0.0-SNAPSHOT-jar-with-dependencies.jar是包含了所有依赖jar，作为Spark应用的依赖jar，提交到Spark集群上；
+* product-category-predict-1.0.0-SNAPSHOT-jar-with-dependencies.jar是包含了所有依赖jar，作为Spark应用的依赖jar，提交到Spark集群上；
 
-3. product-category-predict-1.0.0-SNAPSHOT.jar是Spring Boot可运行jar；
+* product-category-predict-1.0.0-SNAPSHOT.jar是Spring Boot可运行jar；
 
 ## 使用说明
 
@@ -137,7 +137,7 @@ Finish to start application !
 
 ### 启动模型训练
 
-项目启动时会判断application.properties中`category.modelPath`参数配置的模型文件目录是否存在模型，如果没有模型，则会启动模型的训练。
+项目启动时会判断[application.properties](src/main/java/resources/application.properties)中`category.modelPath`参数配置的模型文件目录是否存在模型，如果没有模型，则会启动模型的训练。
 
 训练时长和训练样本大小、物理资源相关。在2.2G I7 CPU的MacbookPro(2014)笔记本电脑上，项目的Spark应用分配的资源为8核CPU、8G内存，训练样本为1200万商品数据，大概需要10分钟。
 
@@ -151,7 +151,7 @@ Finish to start application !
 
 由于商业原因，训练数据不能公开。项目附上了一个简单的测试训练样本[data/train.data](/train/data)，有20万商品数据，可以用来测试、训练。因为样本较小的关系，训练出来的模型的准确率会很低。
 
-训练数据的一行表示一个商品，格式为“{三级类目ID} |&| {商品名称} |&| {商品名称分词结果}”。
+训练数据的一行表示一个商品，格式为`{三级类目ID} |&| {商品名称} |&| {商品名称分词结果}`。
 
 ```text
 0.0 |&| 耐尔金 摩托罗拉moto Z Play/XT1635 防爆钢化玻璃膜/手机保护贴膜 H+pro弧边0.2mm |&| 耐尔 摩托罗拉 moto Play XT1635 防爆 钢化玻璃 手机 保护 贴膜 pro 弧边 mm
