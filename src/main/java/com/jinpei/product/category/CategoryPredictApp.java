@@ -26,9 +26,11 @@ public class CategoryPredictApp {
             }
             CategoryModel categoryModel = applicationContext.getBean(CategoryModel.class);
             categoryModel.loadModel();
-            log.info("Finish to start app.......");
+            log.info("---------------------------------");
+            log.info("Finish to start application !");
+            log.info("---------------------------------");
         } catch (Exception e) {
-            log.error("Cannot start app ", e);
+            log.error("Cannot start application ", e);
         }
     }
 }

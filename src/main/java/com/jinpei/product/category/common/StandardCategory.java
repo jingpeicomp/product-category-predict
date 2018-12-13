@@ -23,7 +23,7 @@ public class StandardCategory implements Serializable{
     /**
      * 二级分类ID
      */
-    private String secondCateId;
+    private int secondCateId;
 
     /**
      * 二级分类名称
@@ -33,7 +33,7 @@ public class StandardCategory implements Serializable{
     /**
      * 一级分类ID
      */
-    private String firstCateId;
+    private int firstCateId;
 
     /**
      * 一级分类名称

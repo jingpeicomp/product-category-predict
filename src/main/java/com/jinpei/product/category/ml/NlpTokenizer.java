@@ -26,7 +26,7 @@ import java.util.stream.Collectors;
 @Slf4j
 public class NlpTokenizer {
 
-    private static final Pattern VALID_TOKEN_PATTERN = Pattern.compile("[\\u4e00-\\u9fa5a-zA-Z]+");
+    private static final Pattern VALID_TOKEN_PATTERN = Pattern.compile("^[\\u4e00-\\u9fa5a-zA-Z]+");
 
     private JiebaSegmenter segmenter;
 
@@ -88,6 +88,6 @@ public class NlpTokenizer {
      * @return boolean
      */
     private boolean isValidToken(String token) {
-        return token.length() >= 2 && VALID_TOKEN_PATTERN.matcher(token).matches();
+        return token.length() >= 2 && VALID_TOKEN_PATTERN.matcher(token).find();
     }
 }
