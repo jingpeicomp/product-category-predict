@@ -9,7 +9,7 @@ import java.io.Serializable;
  * Created by liuzhaoming on 2018/12/12.
  */
 @Data
-public class StandardCategory implements Serializable{
+public class StandardCategory implements Serializable {
     /**
      * 三级分类ID
      */

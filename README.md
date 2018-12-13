@@ -2,13 +2,13 @@
 
 ## 项目介绍
 
-项目根据商品名称把商品预测出商品所属的类目。本项目中商品类目分为三级，一共有962的三级类目，完整的类目文件见：[src/main/resources/category.json](src/main/resources/category.json)。比如名称为“荣耀手机原装华为p9p10plus/mate10/9/8/nova2s/3e荣耀9i/v10手机耳机”的商品，该商品的实际类目是【手机耳机】，我们需要训练一个模型能够根据商品名称自动预测出该商品属于【手机耳机】类目。
+项目根据商品名称把商品预测出商品所属的类目。本项目中商品类目分为三级，一共有962的三级类目，完整的类目文件见：[src/main/resources/category.json](src/main/resources/category.json)。比如名称为“荣耀手机原装华为p9p10plus/mate10/9/8/nova2s/3e荣耀9i/v10手机耳机【线控带麦】AM115标配版白色”的商品，该商品的实际类目是【手机耳机】，我们需要训练一个模型能够根据商品名称自动预测出该商品属于【手机耳机】类目。
 
 项目基于JAVA语言开发，使用Spring Boot开发框架和Spark MLlib机器学习框架，以RESTful接口的方式对外提供服务。
 
 ## 软件架构
 
-该项目属于千米网Ocean大数据平台的一个小项目。
+该项目属于千米网Ocean大数据平台的一个子项目。
 
 项目的架构如下：
 
@@ -107,7 +107,7 @@ category.spark.properties.****     | 无    | 以category.spark.properties.开�
   $ mvn clean package -Dmaven.test.skip=true
 ```
 
-项目使用了jar-with-dependencies和Spring Boot打包插件，最后在目录 {predict_project_home}/target 生成三个jar包：
+项目使用了jar-with-dependencies和Spring Boot打包插件，最后在目录 {predict_project_home}/target 生成三个jar文件：
 
 1. original-product-category-predict-1.0.0-SNAPSHOT.jar是项目源码jar；
 
@@ -129,7 +129,7 @@ category.spark.properties.****     | 无    | 以category.spark.properties.开�
 
 出现如下日志则代表应用启动成功：
 
-```
+```log
 ---------------------------------
 Finish to start application !
 ---------------------------------
@@ -149,7 +149,16 @@ Finish to start application !
 
 #### 训练样本
 
-由于商业原因，训练数据不能公开。项目附上了一个简单的测试训练样本[data/train.data](/train/data)，有23万商品数据，可以用来测试、训练。因为样本较小的关系，训练出来的模型的准确率会很低。
+由于商业原因，训练数据不能公开。项目附上了一个简单的测试训练样本[data/train.data](/train/data)，有20万商品数据，可以用来测试、训练。因为样本较小的关系，训练出来的模型的准确率会很低。
+
+训练数据的一行表示一个商品，格式为“{三级类目ID} |&| {商品名称} |&| {商品名称分词结果}”。
+
+```text
+0.0 |&| 耐尔金 摩托罗拉moto Z Play/XT1635 防爆钢化玻璃膜/手机保护贴膜 H+pro弧边0.2mm |&| 耐尔 摩托罗拉 moto Play XT1635 防爆 钢化玻璃 手机 保护 贴膜 pro 弧边 mm
+0.0 |&| 戴星 手机钢化玻璃膜防爆高清保护膜 适用于魅族 魅蓝2/魅蓝M2 弧边-钢化膜 |&| 戴星 手机 钢化玻璃 防爆 高
+清 保护膜 适用 魅族 魅蓝 魅蓝 M2 弧边 钢化
+934.0 |&| 多丽丝巴比公主会说话的智能对话娃娃仿真洋娃娃对话关节女孩玩具 限量静态-圣诞公主 |&| 丽丝 巴比 公主 说话 智能 对话 娃娃 仿真 洋娃娃 对话 关节 女孩 玩具 限量 静态 圣诞 公主
+```
 
 ### RESTful接口
 
@@ -250,3 +259,19 @@ Finish to start application !
     }
 ]
 ```
+
+### 结果示例
+
+比如名称中包含“小米”的商品，可能是小米品牌数目相关的商品，也有可能是粮食。下面是几个商品的测试结果：
+
+| 商品名称        | 预测类目           |  
+| ------------- |-------------|
+| 小米 Max 全网通 3GB内存 64GB ROM 金色 移动联通电信4G手机 | 手机 |
+| 小米 Max 全网通 3GB内存 64GB ROM 金色 移动联通电信4G | 手机 |
+| 小米 Max 全网通 3GB内存 金色 | 手机 |
+| 小米 Max 全网通 | 手机 |
+| 裕道府 红谷黄小米 健康五谷杂粮 东北谷子100g | 米面杂粮 |
+| 红谷黄小米 健康五谷杂粮 东北谷子 | 米面杂粮 |
+| 黄小米 健康五谷杂粮 | 米面杂粮 |
+| 小米 健康杂粮 | 米面杂粮 |
+| 小米 健康 | 智能手环 |

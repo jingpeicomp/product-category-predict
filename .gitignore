@@ -42,5 +42,3 @@ logs/
 tmp/
 .DS_Store
 spark-warehouse/
-data/
-model/

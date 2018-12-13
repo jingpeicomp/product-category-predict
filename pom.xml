@@ -22,6 +22,7 @@
         <slf4j.version>1.7.16</slf4j.version>
         <logback.version>1.1.8</logback.version>
         <jieba.version>1.0.2</jieba.version>
+        <codehaus.janino.version>2.7.8</codehaus.janino.version>
         <start-class>com.jinpei.product.category.CategoryPredictApp</start-class>
     </properties>
 
@@ -65,6 +66,11 @@
             <groupId>org.scala-lang</groupId>
             <artifactId>scala-library</artifactId>
             <version>${scala.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.codehaus.janino</groupId>
+            <artifactId>commons-compiler</artifactId>
+            <version>${codehaus.janino.version}</version>
         </dependency>
         <dependency>
             <groupId>com.huaban</groupId>
