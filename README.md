@@ -139,7 +139,7 @@ Finish to start application !
 
 项目启动时会判断[application.properties](src/main/java/resources/application.properties)中`category.modelPath`参数配置的模型文件目录是否存在模型，如果没有模型，则会启动模型的训练。
 
-训练时长和训练样本大小、物理资源相关。在2.2G I7 CPU的MacbookPro(2014)笔记本电脑上，项目的Spark应用分配的资源为8核CPU、8G内存，训练样本为1200万商品数据，大概需要10分钟。
+训练时长和训练样本大小、物理资源相关。在2.2G I7 CPU的MacbookPro(2014)笔记本电脑上，Spark应用分配的资源为8核CPU、8G内存，训练样本为1200万商品数据，大概需要10分钟。
 
 ### 模型和样本数据
 
