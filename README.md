@@ -2,25 +2,25 @@
 
 ## 项目介绍
 
-项目根据商品名称把商品预测出商品所属的类目。本项目中商品类目分为三级，一共有962个三级类目，完整的类目文件见：[src/main/resources/category.json](src/main/resources/category.json)。比如名称为“荣耀手机原装华为p9p10plus/mate10/9/8/nova2s/3e荣耀9i/v10手机耳机【线控带麦】AM115标配版白色”的商品，该商品的实际类目是【手机耳机】，我们需要训练一个模型能够根据商品名称自动预测出该商品属于【手机耳机】类目。
+项目根据商品名称把商品预测出商品所属的类目。本项目中商品类目分为三级，一共有 962 个三级类目，完整的类目文件见：[src/main/resources/category.json](src/main/resources/category.json) 。比如名称为“荣耀手机原装华为p9p10plus/mate10/9/8/nova2s/3e荣耀9i/v10手机耳机【线控带麦】AM115标配版白色”的商品，该商品的实际类目是【手机耳机】，我们需要训练一个模型能够根据商品名称自动预测出该商品属于【手机耳机】类目。
 
-项目基于JAVA语言开发，使用Spring Boot开发框架和Spark MLlib机器学习框架，以RESTful接口的方式对外提供服务。
+项目基于 JAVA 语言开发，使用 Spring Boot 开发框架和 Spark MLlib 机器学习框架，以 RESTful 接口的方式对外提供服务。
 
 ## 软件架构
 
-该项目属于千米网Ocean大数据平台的一个子项目。
+该项目属于千米网 Ocean 大数据平台的一个子项目。
 
 项目的架构如下：
 
 ![架构图](http://ww1.sinaimg.cn/mw690/44608603gy1fy438e5x7yj21tc0mc76t.jpg)
 
-Ocean大数据平台的架构如下：
+Ocean 大数据平台的架构如下：
 
 ![Ocean架构图](http://ww1.sinaimg.cn/large/44608603gy1fy53tf2g4sj20ty0vetb7.jpg)
 
 ## 算法和设计
 
-商品类目预测，归根结底是一个分类问题，一个有监控的机器学习问题。每个标准类目可以看成是一个分类，程序需要自动把商品划分到各个分类中。项目主要使用TF-IDF和Bayes算法。TF-IDF用于商品特征向量的提取和优化，Bayes用于对商品特征向量的分类。
+商品类目预测，归根结底是一个分类问题，一个有监控的机器学习问题。每个标准类目可以看成是一个分类，程序需要自动把商品划分到各个分类中。项目主要使用 TF-IDF 和 Bayes 算法。TF-IDF 用于商品特征向量的提取和优化，Bayes 用于对商品特征向量的分类。
 
 ### 特征工程
 
@@ -30,15 +30,15 @@ Ocean大数据平台的架构如下：
 
 商品名称我们需要通过分词将其切分成相互独立的词条。中文分词方法主要有两类：基于词典和基于统计。
 
-中文分词算法尝试了IK、Ansj和结巴，测试结果显示在商品领域结巴分词效果最好。
+中文分词算法尝试了 IK、Ansj 和结巴，测试结果显示在商品领域结巴分词效果最好。
 
 #### 2. 自定义词典
 
-针对商品这一特定领域，收集和整理了电商领域的专业词汇，经过筛选和去重后，生成了自定义词典，词典包含30万词汇，词典文件见：[/data/product.dict](/data/product.dict)。最后商品名称分词方法为结巴分词+30万词汇的自定义词典。
+针对商品这一特定领域，收集和整理了电商领域的专业词汇，经过筛选和去重后，生成了自定义词典，词典包含30万词汇，词典文件见： [data/product.dict](/data/product.dict) 。最后商品名称分词方法为结巴分词 + 30 万词汇的自定义词典。
 
 #### 3. 商品名称特征向量
 
-将商品名称分词后形成词条，如果所有商品的词条有10万个，那么就可以将每个商品名称转换为一个10万维空间的向量。
+将商品名称分词后形成词条，如果所有商品的词条有 10 万个，那么就可以将每个商品名称转换为一个10万维空间的向量。
 
 假设只存在下面的两个商品：
 
@@ -54,7 +54,7 @@ Ocean大数据平台的架构如下：
 
 #### 4. 商品特征向量优化
 
-上述特征向量的维度为总词条的数目，当样本很大的情况下，词条可能会达到10万甚至百万级，向量的维度太高导致：
+上述特征向量的维度为总词条的数目，当样本很大的情况下，词条可能会达到 10 万甚至百万级，向量的维度太高导致：
 
 1. 计算的复杂度指数级增加；
 
@@ -62,23 +62,23 @@ Ocean大数据平台的架构如下：
 
 因此需要Hash算法对词条向量进行降维处理。
 
-上节向量的值只考虑到词条的数目，没有考虑到词条的权重。比如一个商品标题分词后的结果为“品胜 iphone 苹果 手机 耳机”，显然“耳机”词条的权重或者区分度应该最高。如何找出这样区分度或者权重最高的词呢？可以通过[TF-IDF（term frequency–inverse document frequency）](https://en.wikipedia.org/wiki/Tf%E2%80%93idf)算法进行处理。
+上节向量的值只考虑到词条的数目，没有考虑到词条的权重。比如一个商品标题分词后的结果为“品胜 iphone 苹果 手机 耳机”，显然“耳机”词条的权重或者区分度应该最高。如何找出这样区分度或者权重最高的词呢？可以通过 [TF-IDF（term frequency–inverse document frequency）](https://en.wikipedia.org/wiki/Tf%E2%80%93idf) 算法进行处理。
 
 ### 模型训练
 
-以预先标注好类目的商品数据作为训练样本，使用Bayes算法对向量进行分类，训练出一个商品类目分类模型，后续就可以使用该模型对商品类目进行预测。
+以预先标注好类目的商品数据作为训练样本，使用 Bayes 算法对向量进行分类，训练出一个商品类目分类模型，后续就可以使用该模型对商品类目进行预测。
 
 ### 模型评测
 
-将训练数据随机分成9:1两份，90%的数据用于模型训练，10%的数据用于评测，测试结果显示类目预测准确率为82%。
+将训练数据随机分成 9:1 两份，90% 的数据用于模型训练，10% 的数据用于评测，测试结果显示类目预测准确率为82%。
 
 因为商品信息只有名称，如果有更多的信息（品牌、价格、厂家等），预测准确率会进一步提高。
 
 ## 安装教程
 
-### 1. 安装并运行Spark
+### 1. 安装并运行 Spark
 
-项目使用的Spark版本为2.2.1，详情见[Spark安装使用说明](https://spark.apache.org/docs/2.2.1/spark-standalone.html)。
+项目使用的 Spark 版本为 2.2.1，详情见 [Spark安装使用说明](https://spark.apache.org/docs/2.2.1/spark-standalone.html) 。
 
 ### 2. 下载源码
 
@@ -93,27 +93,27 @@ Ocean大数据平台的架构如下：
 
 配置名 | 值 |  说明
 :----------- | :-----------| :-----------
-server.port     | 默认值8082    | Web应用对外服务端口
-category.dataPath    | {predict_project_home}/data         | 数据文件目录路径，包含商品名称分词自定义词典product.dict、训练数据
+server.port     | 默认值 8082    | Web 应用对外服务端口
+category.dataPath    | {predict_project_home}/data         | 数据文件目录路径，包含商品名称分词自定义词典 product.dict 、训练数据
 category.modelPath    | {predict_project_home}/model         | 机器学习模型文件目录路径
-category.spark.masterUrl     | 如果是Spark单Standalone安装方式的话，默认地址是spark://localhost:7077    | spark集群master url
+category.spark.masterUrl     | 如果是 Spark 单 Standalone 安装方式的话，默认地址是 spark://localhost:7077    | Spark 集群 master url
 category.spark.dependenceJar     | {predict_project_home}/target/product-category-predict-1.0.0-SNAPSHOT-jar-with-dependencies.jar    | Spark App 依赖的jar文件
-category.spark.properties.****     | 无    | 以category.spark.properties.开头的属性都是Spark配置参数，最终都会设置到Spark App上。不同Spark部署方式对应的属性不同，详情见[Spark配置参数说明](https://spark.apache.org/docs/2.2.1/configuration.html)。[现有的配置文件](src/main/java/resources/application.properties)是针对Standalone部署方式的参数。Spark最重要的配置参数是CPU和内存资源的设定。
+category.spark.properties.****     | 无    | 以 category.spark.properties. 开头的属性都是 Spark 配置参数，最终都会设置到 Spark App 上。不同 Spark 部署方式对应的属性不同，详情见 [Spark配置参数说明](https://spark.apache.org/docs/2.2.1/configuration.html) 。[现有的配置文件](src/main/java/resources/application.properties)是针对 Standalone 部署方式的参数。Spark 最重要的配置参数是 CPU 和内存资源的设定。
 
-### 4. 通过maven打包
+### 4. 通过 maven 打包
 
 ```shell
   $ cd  {predict_project_home}
   $ mvn clean package -Dmaven.test.skip=true
 ```
 
-项目使用了jar-with-dependencies和Spring Boot打包插件，最后在目录 {predict_project_home}/target 生成三个jar文件：
+项目使用了 jar-with-dependencies 和 Spring Boot 打包插件，最后在目录 {predict_project_home}/target 生成三个 jar 文件：
 
-* original-product-category-predict-1.0.0-SNAPSHOT.jar是项目源码jar；
+* original-product-category-predict-1.0.0-SNAPSHOT.jar 是项目源码 jar；
 
-* product-category-predict-1.0.0-SNAPSHOT-jar-with-dependencies.jar是包含了所有依赖jar，作为Spark应用的依赖jar，提交到Spark集群上；
+* product-category-predict-1.0.0-SNAPSHOT-jar-with-dependencies.jar 是包含了所有依赖 jar ，作为 Spark 应用的依赖 jar，提交到 Spark 集群上；
 
-* product-category-predict-1.0.0-SNAPSHOT.jar是Spring Boot可运行jar；
+* product-category-predict-1.0.0-SNAPSHOT.jar 是 Spring Boot 可运行 jar；
 
 ## 使用说明
 
@@ -125,7 +125,7 @@ category.spark.properties.****     | 无    | 以category.spark.properties.开�
   $ java -jar target/product-category-predict-1.0.0-SNAPSHOT.jar
 ```
 
-由于项目基于Spring Boot框架，因此Spring Boot所有的启动参数都适用于本项目。
+由于项目基于 Spring Boot 框架，因此 Spring Boot 所有的启动参数都适用于本项目。
 
 出现如下日志则代表应用启动成功：
 
@@ -137,19 +137,19 @@ Finish to start application !
 
 ### 启动模型训练
 
-项目启动时会判断[application.properties](src/main/java/resources/application.properties)中`category.modelPath`参数配置的模型文件目录是否存在模型，如果没有模型，则会启动模型的训练。
+项目启动时会判断 [application.properties](src/main/java/resources/application.properties) 中 `category.modelPath` 参数配置的模型文件目录是否存在模型，如果没有模型，则会启动模型的训练。
 
-训练时长和训练样本大小、物理资源相关。在2.2G I7 CPU的MacbookPro(2014)笔记本电脑上，Spark应用分配的资源为8核CPU、8G内存，训练样本为1200万商品数据，大概需要10分钟。
+训练时长和训练样本大小、物理资源相关。在2.2G I7 CPU 的 MacbookPro(2014) 笔记本电脑上，Spark应用分配的资源为8核 CPU、8G 内存，训练样本为1200万商品数据，大概需要10分钟。
 
 ### 模型和样本数据
 
 #### 模型数据
 
-项目[model](/model)目录已经附上了我本地训练好的一个模型，可以直接用来预测。
+项目 [model](/model) 目录已经附上了我本地训练好的一个模型，可以直接用来预测。
 
 #### 训练样本
 
-由于商业原因，训练数据不能公开。项目附上了一个简单的测试训练样本[data/train.data](/data/train.data)，有20万商品数据，可以用来测试、训练。因为样本较小的关系，训练出来的模型的准确率会很低。
+由于商业原因，训练数据不能公开。项目附上了一个简单的测试训练样本 [data/train.data](/data/train.data) ，有20万商品数据，可以用来测试、训练。因为样本较小的关系，训练出来的模型的准确率会很低。
 
 训练数据的一行表示一个商品，格式为`{三级类目ID} |&| {商品名称} |&| {商品名称分词结果}`。
 
@@ -160,7 +160,7 @@ Finish to start application !
 934.0 |&| 多丽丝巴比公主会说话的智能对话娃娃仿真洋娃娃对话关节女孩玩具 限量静态-圣诞公主 |&| 丽丝 巴比 公主 说话 智能 对话 娃娃 仿真 洋娃娃 对话 关节 女孩 玩具 限量 静态 圣诞 公主
 ```
 
-### RESTful接口
+### RESTful 接口
 
 #### 1. 查询商品标准类目
 
