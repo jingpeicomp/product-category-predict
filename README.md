@@ -12,11 +12,11 @@
 
 项目的架构如下：
 
-![架构图](http://ww1.sinaimg.cn/mw690/44608603gy1fy438e5x7yj21tc0mc76t.jpg)
+![架构图](https://s2.ax1x.com/2019/09/11/nwpbdK.jpg)
 
 Ocean 大数据平台的架构如下：
 
-![Ocean架构图](http://ww1.sinaimg.cn/large/44608603gy1fy53tf2g4sj20ty0vetb7.jpg)
+![Ocean架构图](https://s2.ax1x.com/2019/09/11/nwpjRH.jpg)
 
 ## 算法和设计
 
